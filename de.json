@@ -414,5 +414,6 @@
   "lib.WeaponBuildModal.totembonuses": "Totem Bonuses",
   "lib.WeaponBuildModal.totems": "Totems:",
   "lib.WeaponBuildModal.virtueattunecap": "Virtue Attune Cap",
-  "lib.WeaponBuildModal.weaponstats": "Weapon Stats"
+  "lib.WeaponBuildModal.weaponstats": "Weapon Stats",
+  "lib.Navbar.home": "Startseite"
 }
