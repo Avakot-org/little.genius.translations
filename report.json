@@ -1,71 +1,71 @@
 {
-  "generated": "2026-02-28T02:53:58.810Z",
-  "totalKeys": 416,
+  "generated": "2026-02-28T12:05:07.174Z",
+  "totalKeys": 428,
   "languages": {
     "de": {
-      "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
-      "completion": 0
+      "translated": 1,
+      "untranslated": 427,
+      "missing": 12,
+      "completion": 0.2
     },
     "es": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "fr": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "it": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "ja": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "ko": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "pl": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "pt": {
-      "translated": 401,
-      "untranslated": 15,
-      "missing": 0,
-      "completion": 96.4
+      "translated": 400,
+      "untranslated": 28,
+      "missing": 12,
+      "completion": 93.5
     },
     "ru": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "tr": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     },
     "zh": {
       "translated": 0,
-      "untranslated": 416,
-      "missing": 0,
+      "untranslated": 428,
+      "missing": 12,
       "completion": 0
     }
   }
