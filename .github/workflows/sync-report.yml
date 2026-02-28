@@ -1,0 +1,54 @@
+name: Sync i18n Report
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.json'
+      - 'scripts/sync-i18n.js'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'en.json'
+      - 'scripts/sync-i18n.js'
+
+jobs:
+  sync-report:
+    name: Regenerate report.json
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use a token that allows pushing back to the branch
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref || github.ref_name }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run sync script
+        run: node scripts/sync-i18n.js
+
+      - name: Commit updated report.json (push to main only)
+        if: github.event_name == 'push'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add report.json *.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: regenerate report.json [skip ci]"
+          git push
+
+      - name: Upload report artifact (PR only)
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: i18n-report
+          path: report.json
+          retention-days: 7

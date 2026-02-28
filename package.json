@@ -1,0 +1,9 @@
+{
+  "name": "little-genius-translations",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "node scripts/sync-i18n.js",
+    "validate": "node validate.js"
+  }
+}
