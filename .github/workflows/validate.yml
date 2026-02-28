@@ -36,7 +36,7 @@ jobs:
 
       - name: Run validation
         if: steps.changed.outputs.files != ''
-        run: node validate.js ${{ steps.changed.outputs.files }}
+        run: node scripts/validate.js ${{ steps.changed.outputs.files }}
 
       - name: Nothing to validate
         if: steps.changed.outputs.files == ''
