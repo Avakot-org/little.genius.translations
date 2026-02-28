@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-28T19:39:34.612Z",
+  "generated": "2026-02-28T21:04:59.406Z",
   "totalKeys": 437,
   "languages": {
     "de": {
@@ -45,10 +45,10 @@
       "completion": 0.5
     },
     "pt": {
-      "translated": 400,
-      "untranslated": 37,
+      "translated": 424,
+      "untranslated": 13,
       "missing": 0,
-      "completion": 91.5
+      "completion": 97
     },
     "ru": {
       "translated": 2,
