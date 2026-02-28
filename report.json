@@ -1,71 +1,71 @@
 {
-  "generated": "2026-02-28T12:36:19.372Z",
+  "generated": "2026-02-28T18:52:52.442Z",
   "totalKeys": 437,
   "languages": {
     "de": {
       "translated": 3,
       "untranslated": 434,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.7
     },
     "es": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "fr": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "it": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "ja": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "ko": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "pl": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "pt": {
       "translated": 400,
       "untranslated": 37,
-      "missing": 6,
+      "missing": 0,
       "completion": 91.5
     },
     "ru": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "tr": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     },
     "zh": {
       "translated": 2,
       "untranslated": 435,
-      "missing": 6,
+      "missing": 0,
       "completion": 0.5
     }
   }
