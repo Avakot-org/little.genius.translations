@@ -461,5 +461,9 @@
   "lib.WeaponBuildModal.utilityslot": "Utility Slot",
   "lib.WeaponBuildModal.virtueattunecap": "Virtue Attune Cap",
   "lib.WeaponBuildModal.weaponstats": "Weapon Stats",
+  "lib.WorldBossTimers.avakotnotifyonreset": "Notify on reset",
+  "lib.WorldBossTimers.avakotresetin": "Resets in",
+  "lib.WorldBossTimers.avakotsgots": "Avakot's Gots",
+  "lib.WorldBossTimers.notificationsoff": "Turn off notifications",
   "lib.WorldBossTimers.viewlocation": "View location"
 }
