@@ -109,9 +109,6 @@
   "lib.ContextMenu.pintotop": "Pin to top",
   "lib.ContextMenu.unhide": "Unhide",
   "lib.ContextMenu.unpin": "Unpin",
-  "lib.CookieBanner.gotit": "Got it!",
-  "lib.CookieBanner.localstoragedesc": "to save your tracker progress and preferences. \r\n          No tracking, no analytics, no third-party",
-  "lib.CookieBanner.weuselocalstora": "We use local storage",
   "lib.CosmeticsView.all": "All",
   "lib.CosmeticsView.craftingtime": "Crafting Time:",
   "lib.CosmeticsView.craftrequiremen": "Craft Requirements",
@@ -461,5 +458,13 @@
   "lib.WeaponBuildModal.utilityslot": "Utility Slot",
   "lib.WeaponBuildModal.virtueattunecap": "Virtue Attune Cap",
   "lib.WeaponBuildModal.weaponstats": "Weapon Stats",
-  "lib.WorldBossTimers.viewlocation": "View location"
+  "lib.WorldBossTimers.avakotnotifyonreset": "Notify on reset",
+  "lib.WorldBossTimers.avakotresetin": "Resets in",
+  "lib.WorldBossTimers.avakotsgots": "Avakot's Gots",
+  "lib.WorldBossTimers.nobosses": "No event timers available.",
+  "lib.WorldBossTimers.notificationsoff": "Turn off notifications",
+  "lib.WorldBossTimers.refreshingbossdata": "Refreshing boss data...",
+  "lib.WorldBossTimers.viewlocation": "View location",
+  "lib.WorldBossTimers.wevetcooldown": "Wevetseed Cooldown",
+  "lib.WorldBossTimers.wevetnextpickup": "Next Pickup Available"
 }
