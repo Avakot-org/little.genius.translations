@@ -13,12 +13,10 @@
   "App.string_20": "Установить Little Genius как приложение",
   "App.string_7": "Эй, Little Genius работает лучше в виде установленного приложения!",
   "App.supportthedevel": "Поддержать разработку",
-
   "lib.AccountPill.accountsettings": "Настройки аккаунта",
   "lib.AccountPill.toggleaccountdr": "Toggle account drawer",
   "lib.AccountPill.toggleaccountin": "Отобразить данные об аккаунте",
   "lib.AccountPill.untilrefresh": "до обновления",
-
   "lib.AccountStats.accountcreated": "Аккаунт создан",
   "lib.AccountStats.accountstats": "Статистика аккаунта",
   "lib.AccountStats.calculatedmr": "Подсчитанный Ранг Мастерства",
@@ -47,13 +45,12 @@
   "lib.AccountStats.totalkills": "Всего убийств",
   "lib.AccountStats.waitingforsoulf": "Ожидание Soulframe",
   "lib.AccountStats.weaponstatistic": "Статистика оружия",
-
   "lib.AccountStatsModal.accountidinput": "Ввод ID аккаунта",
   "lib.AccountStatsModal.accountusername": "имя пользователя",
   "lib.AccountStatsModal.alreadylinked": "Уже подключены?",
   "lib.AccountStatsModal.closemodal": "Закрыть модал",
   "lib.AccountStatsModal.confirmandlinka": "Подтвердить и подключить аккаунт",
-  "lib.AccountStatsModal.doesnot": "DOES NOT",
+  "lib.AccountStatsModal.doesnot": "НЕ",
   "lib.AccountStatsModal.donotshare": "НЕ ДЕЛИТЕСЬ",
   "lib.AccountStatsModal.eelog": "EE.log",
   "lib.AccountStatsModal.howtofindyourac": "Как найти ID вашего аккаунта:",
@@ -65,7 +62,7 @@
   "lib.AccountStatsModal.removelinkedacc": "Удалить подключенный аккаунт",
   "lib.AccountStatsModal.searchforyour": "Search for your",
   "lib.AccountStatsModal.securitynotice": "⚠️ Уведомление безопаности",
-  "lib.AccountStatsModal.string_10": " ID вашего аккаунта отдельно от этого приложения.\r\n              ",
+  "lib.AccountStatsModal.string_10": "хранит ID вашего аккаунта отдельно от этого приложения.\r\n              ",
   "lib.AccountStatsModal.string_11": "Ваш ID хранится локально в вашем браузере.",
   "lib.AccountStatsModal.string_23": "Скопируйте текст внутри кавычек",
   "lib.AccountStatsModal.string_25": "ID аккаунта (24-символьная строка):",
@@ -76,23 +73,17 @@
   "lib.AccountStatsModal.windows": "Windows:",
   "lib.AccountStatsModal.youraccountidis": "ID вашего аккаунта",
   "lib.AccountStatsModal.yourdataissafe": "🔒 Вашы данные в безопаности",
-
   "lib.BackgroundDialog.runinthebackgro": "Run in the background?",
-
   "lib.CategorySection.togglesection": "Toggle section",
-
   "lib.ConfettiCelebration.congratulations": "🎉 ПОЗДРАВЛЯЕМ! 🎉",
   "lib.ConfettiCelebration.seeyounextupdat": "Увидимся в следующем обновлении, посланник!",
-
   "lib.ContextMenu.hidefromlist": "Убрать из списка",
   "lib.ContextMenu.pintotop": "Закрепить наверх",
   "lib.ContextMenu.unhide": "Показать в списке",
   "lib.ContextMenu.unpin": "Открепить",
-
   "lib.CookieBanner.gotit": "Всё понятно!",
   "lib.CookieBanner.string_1": "мы используем только локальное хранилище. \r\n          Никакой слежки, сбора данных и передачи информации.",
   "lib.CookieBanner.weuselocalstora": "Для хранения вашего прогресса и настроек",
-
   "lib.CosmeticsView.all": "Все",
   "lib.CosmeticsView.craftingtime": "Время создания:",
   "lib.CosmeticsView.craftrequiremen": "Необходимо для создания",
@@ -106,7 +97,6 @@
   "lib.CosmeticsView.searchcosmetics": "Поиск косметических предметов...",
   "lib.CosmeticsView.title": "Косметические предметы",
   "lib.CosmeticsView.type": "Тип",
-
   "lib.CreditsModal.art": "Графика",
   "lib.CreditsModal.disclaimer": "Дисклеймер",
   "lib.CreditsModal.innercircle": "Внутренний круг",
@@ -119,7 +109,6 @@
   "lib.CreditsModal.string_13": "Не получилось загрузить патронов.",
   "lib.CreditsModal.string_2": "Создано и представлено для вас командой Avakot.org",
   "lib.CreditsModal.string_9": "Логотип Little Genius был сделан невероятной Lurushka â€”, зацените её работы в",
-
   "lib.DataManager.clearalltrackin": "Clear all tracking data",
   "lib.DataManager.confirmwipealld": "Confirm Wipe All Data",
   "lib.DataManager.removeallownedi": "Remove all owned items",
@@ -131,7 +120,6 @@
   "lib.DataManager.warning": "Warning:",
   "lib.DataManager.wipealldata": "Wipe All Data",
   "lib.DataManager.yeswipeeverythi": "Yes, Wipe Everything",
-
   "lib.DonationModal.andourcommunity": "и нашему сообществу.",
   "lib.DonationModal.builtwithlovefo": "Сделано с любовью к Soulframe",
   "lib.DonationModal.discordlinkedpa": "Discord подключен к Patreon",
@@ -149,7 +137,6 @@
   "lib.DonationModal.string_8": "Безлимитное закрепление предметов (обычным пользователям доступно 5)",
   "lib.DonationModal.supportonpatreo": "Поддержите нас на Patreon",
   "lib.DonationModal.tounlockyourper": "чтобы получить свои бонусы.",
-
   "lib.EnhancementsPanel.addedslot": "Добавляемый слот",
   "lib.EnhancementsPanel.allweapons": "Все оружие",
   "lib.EnhancementsPanel.bonusesbyrank": "Бонусы от прокачки",
@@ -181,14 +168,12 @@
   "lib.EnhancementsPanel.strimassource": "s.trim()) as source}",
   "lib.EnhancementsPanel.tabrunes": "Руны",
   "lib.EnhancementsPanel.tabtotems": "Тотемы",
-
   "lib.FoundryView.allmaterialsrea": "Все материалы в наличии",
   "lib.FoundryView.cancraft": "Можно создать:",
   "lib.FoundryView.loadingfoundryd": "Загрузка данных кузни...",
   "lib.FoundryView.noactivecrafts": "Сейчас ничего не создаётся",
   "lib.FoundryView.readytocollect": "Можно собрать",
   "lib.FoundryView.readytocraft": "Можно создать",
-
   "lib.I18nExample.changelanguage": "// Поменять язык",
   "lib.I18nExample.codeexample": "Пример кода",
   "lib.I18nExample.currentlanguage": "Текущий язык:",
@@ -203,7 +188,6 @@
   "lib.I18nExample.string_17": "required, invalidEmail, passwordTooShort,\r\n          passwordMismatch",
   "lib.I18nExample.string_9": "инвентарь, кузня, маркет, профиль",
   "lib.I18nExample.username": "Имя пользователя:",
-
   "lib.ImportExportModal.clearallcraftin": "Сбросить наличие ресурсов для крафта",
   "lib.ImportExportModal.datamanagement": "Управление данными",
   "lib.ImportExportModal.removeallownedi": "Сбросить наличие всех предметов",
@@ -214,13 +198,11 @@
   "lib.ImportExportModal.wipealldata": "Удалить все данные",
   "lib.ImportExportModal.wipedata": "Удалить данные",
   "lib.ImportExportModal.yeswipeeverythi": "Да, удалить все",
-
   "lib.ImportPromptModal.keepmanualdata": "Keep Manual Data",
   "lib.ImportPromptModal.legacydatadetec": "Обнаружены устаревшие данные",
   "lib.ImportPromptModal.remembermychoic": "Запомнить мой выбор",
   "lib.ImportPromptModal.string_1": "Мы нашли ранее сохраненные данные в вашем браузере.",
   "lib.ImportPromptModal.string_3": "Это перепишет локальные данные.",
-
   "lib.IndividualTracker.addweapon": "Добавить оружие",
   "lib.IndividualTracker.addweapontotrac": "Добавить оружие для отслеживания",
   "lib.IndividualTracker.addyourfirstwea": "Добавьте своё первое оружие",
@@ -231,11 +213,9 @@
   "lib.IndividualTracker.string_1": "Отслеживайте своё оружие и настраивайте свои комбинации рун и тотемов",
   "lib.IndividualTracker.string_5": "Начните отслеживать своё оружие и настраивайте свои комбинации рун и тотемов",
   "lib.IndividualTracker.weapontracker": "Трекер оружия",
-
   "lib.InventorySyncButton.alreadyuptodate": "Актуальные данные",
   "lib.InventorySyncButton.inventorysynced": "Инвентарь синхронизирован",
   "lib.InventorySyncButton.syncfailed": "Не удалось синхронизироваться",
-
   "lib.InventoryView.allarmor": "Вся броня",
   "lib.InventoryView.allitems": "Все предметы",
   "lib.InventoryView.allweapons": "Всё оружие",
@@ -264,7 +244,6 @@
   "lib.InventoryView.string_22": "Нет брони соответствующей вашему поиску.",
   "lib.InventoryView.string_28": "Искать по имени, категории, слоту, редкости...",
   "lib.InventoryView.togglehiddenite": "Отображать скрытые предметы",
-
   "lib.ItemCard.armorset": "Сет брони",
   "lib.ItemCard.attunetier": "Скейл Добродетели",
   "lib.ItemCard.attunevirtue": "Добродетель",
@@ -287,14 +266,11 @@
   "lib.ItemCard.unarmeddmg": "Урон без оружия",
   "lib.ItemCard.virtueorder": "Порядок Добродетели",
   "lib.ItemCard.virtuereq": "Требования к Добродетели.",
-
   "lib.ItemStats.personalstats": "Личные характеристики",
-
   "lib.JoineriesPanel.closemodal": "Close modal",
   "lib.JoineriesPanel.effectsstats": "Эффекты и характеристики",
   "lib.JoineriesPanel.loadingjoinerie": "Загрузка связующих...",
   "lib.JoineriesPanel.nojoineriesavai": "Связующих не обнаружено.",
-
   "lib.LoginGate.checkingsession": "Проверка сессии…",
   "lib.LoginGate.closedbeta": "Закрытая бета",
   "lib.LoginGate.discordserver": "Discord",
@@ -307,19 +283,15 @@
   "lib.LoginGate.string_12": "В целях безопасности и работоспособности вам необходимо находиться в нашем",
   "lib.LoginGate.string_14": "при использовании Little Genius. В будущем мы найдём более удобное решение — приносим извинения за неудобства",
   "lib.LoginGate.string_9": "Добро пожаловать в открытую бета-версию! Войдите через Discord, чтобы начать.",
-
   "lib.LoginModal.redirecting": "Перенаправляем...",
   "lib.LoginModal.signinwithdisco": "Войти с помощью Discord",
   "lib.LoginModal.string_1": "Перенаправляем в Discord для авторизации... Пожалуйста, проверьте свой браузер.",
   "lib.LoginModal.string_2": "Чтобы привязать аккаунт и включить облачную синхронизацию, войдите через Discord.",
-
   "lib.LogoutConfirmModal.confirmlogout": "Подвердить выход",
   "lib.LogoutConfirmModal.string_1": "Вы уверены, что хотите выйти?",
   "lib.LogoutConfirmModal.string_3": "Ваш локальный прогресс не пострадает, но вам потребуется войти снова, чтобы получить доступ к данным аккаунта",
   "lib.LogoutConfirmModal.youareloggedina": "Вы вошли как",
-
   "lib.MarketView.avakotmarket": "Avakot Market",
-
   "lib.Navbar.avakotbuddy": "Little Genius",
   "lib.Navbar.avakotmarket": "Avakot Market",
   "lib.Navbar.builtin": "Встроенный",
@@ -338,7 +310,6 @@
   "lib.Navbar.translationprog": "{{pct}}% переведено",
   "lib.Navbar.weapontracker": "Трекер оружия",
   "lib.Navbar.weapontrackervi": "Просмотр трекера оружия",
-
   "lib.OmniSearch.closesearch": "Закрыть поиск",
   "lib.OmniSearch.noresultsfound": "Нет результатов",
   "lib.OmniSearch.string_3": "Start typing to search across all items, resources, bosses, and settings",
@@ -347,7 +318,6 @@
   "lib.OmniSearch.tonavigate": "to navigate",
   "lib.OmniSearch.toopen": "открыть",
   "lib.OmniSearch.toselect": "выбрать",
-
   "lib.ResourcePanel.crafteditemrequ": "Crafted Item Required",
   "lib.ResourcePanel.craftingresourc": "Crafting Resources",
   "lib.ResourcePanel.dropsources": "Откуда выпадает",
@@ -361,14 +331,12 @@
   "lib.ResourcePanel.usedincrafting": "Used in Crafting",
   "lib.ResourcePanel.viewininventory": "View in Inventory",
   "lib.ResourcePanel.viewitem": "Изучить предмет",
-
   "lib.RightSidebar.masteryrank": "Ранг Мастерства",
   "lib.RightSidebar.moonsteelthread": "Moonsteel Thread",
   "lib.RightSidebar.search": "Search...",
   "lib.RightSidebar.string_11": "Помогите поддерживать работу этого приложения для сообщества!",
   "lib.RightSidebar.string_14": "Мы создаём независимое приложение для сообщества. Помогите нам поддерживать его работу!",
   "lib.RightSidebar.supportonpatreo": "Поддержите на Patreon",
-
   "lib.SettingsModal.disablefounderi": "Отключить предметы Основателей",
   "lib.SettingsModal.disableunobtain": "Отключить невозможные к получению предметы",
   "lib.SettingsModal.runinbackground": "Работать в фоновом режиме",
@@ -380,20 +348,16 @@
   "lib.SettingsModal.string_7": "Оставляет Soulmap включенным при переключении вкладок сохраняя вашу позицию.",
   "lib.SettingsModal.string_8": "Это может увеличить нагрузку на оперативную память.",
   "lib.SettingsModal.worldbossnotifi": "Уведомления о респавне Боссов",
-  
   "lib.SoulmapView.soulframeintera": "Интерактивная карта Soulframe",
-
   "lib.StandingsPanel.dailyresetin": "Ежедневное обновление через",
   "lib.StandingsPanel.factionsdailyca": "Осталось ежедневной репутации:",
   "lib.StandingsPanel.factionstanding": "Репутация анклавов",
   "lib.StandingsPanel.loadingstanding": "Загрузка репутации...",
   "lib.StandingsPanel.string_7": "No faction standings available",
-
   "lib.UpdateChecker.downloading": "Загрузка...",
   "lib.UpdateChecker.updateavailable": "Доступно обновление",
   "lib.UpdateChecker.updatenow": "Обновить сейчас",
   "lib.UpdateChecker.whatsnew": "Что нового",
-
   "lib.UserPanelModal.account": "Аккаунт",
   "lib.UserPanelModal.actioncannotbeu": "Это действие нельзя отменить",
   "lib.UserPanelModal.aisactiveasacc": "!a.is_active) as acc}",
@@ -432,9 +396,7 @@
   "lib.UserPanelModal.toggleautosync": "Toggle auto sync",
   "lib.UserPanelModal.tounlockyourper": "to unlock your perks.",
   "lib.UserPanelModal.viewanotheracco": "View Another Account",
-
   "lib.UserPill.nextautorefresh": "Следующее автоматическое обновление через...",
-
   "lib.WeaponBuildModal.alltotemslotted": "Все подходящие тотемы уже снаряжены",
   "lib.WeaponBuildModal.attackslot": "Слот Атаки",
   "lib.WeaponBuildModal.attunecaps": "Предел развития Добродетели",
@@ -473,6 +435,5 @@
   "lib.WeaponBuildModal.utilityslot": "Слот Поддержки",
   "lib.WeaponBuildModal.virtueattunecap": "Предел развития Добродетели",
   "lib.WeaponBuildModal.weaponstats": "Характеристики оружия",
-
   "lib.WorldBossTimers.viewlocation": "Посмотреть локацию на карте"
 }
