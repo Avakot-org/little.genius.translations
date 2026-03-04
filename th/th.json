@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Soulframe Interactive Map",
   "lib.StandingsPanel.dailyresetin": "Daily reset in",
   "lib.StandingsPanel.factionsdailyca": "Factions Daily Cap:",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "Faction Standing",
   "lib.StandingsPanel.infavours": "in Favours",
   "lib.StandingsPanel.loadingstanding": "Loading standings...",
