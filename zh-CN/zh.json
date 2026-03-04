@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Soulframe 互动地图",
   "lib.StandingsPanel.dailyresetin": "每日声望奖励刷新倒计时",
   "lib.StandingsPanel.factionsdailyca": "每日派系声望上限：",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "派系声望",
   "lib.StandingsPanel.infavours": "当前好感度",
   "lib.StandingsPanel.loadingstanding": "正在加载声望……",
