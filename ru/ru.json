@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Интерактивная карта Soulframe",
   "lib.StandingsPanel.dailyresetin": "Ежедневное обновление через",
   "lib.StandingsPanel.factionsdailyca": "Осталось ежедневной репутации:",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "Репутация анклавов",
   "lib.StandingsPanel.infavours": "репутации",
   "lib.StandingsPanel.loadingstanding": "Загрузка репутации...",
