@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Soulframe interaktive Karte",
   "lib.StandingsPanel.dailyresetin": "Täglicher Reset in",
   "lib.StandingsPanel.factionsdailyca": "Tägliches Fraktionslimit:",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "Fraktionsstatus",
   "lib.StandingsPanel.infavours": "in Gunst",
   "lib.StandingsPanel.loadingstanding": "Rangwerte werden geladen...",
