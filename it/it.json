@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Soulframe Interactive Map",
   "lib.StandingsPanel.dailyresetin": "Reset Giornaliero fra",
   "lib.StandingsPanel.factionsdailyca": "Limite giornaliero Enclave:",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "Favore Enclave",
   "lib.StandingsPanel.infavours": "in Favours",
   "lib.StandingsPanel.loadingstanding": "Caricando Favore...",
