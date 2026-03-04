@@ -415,6 +415,7 @@
   "lib.SoulmapView.soulframeintera": "Soulframe Etkileşimli Haritası",
   "lib.StandingsPanel.dailyresetin": "Günlük sıfırlanmaya kalan",
   "lib.StandingsPanel.factionsdailyca": "Fraksiyonların Günlük Sınırı:",
+  "lib.StandingsPanel.odeinfamydailyca": "Ode Infamy Daily Cap:",
   "lib.StandingsPanel.factionstanding": "Fraksiyon Puanı",
   "lib.StandingsPanel.infavours": "in Favours",
   "lib.StandingsPanel.loadingstanding": "Puanlar yükleniyor...",
