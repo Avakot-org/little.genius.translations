@@ -417,7 +417,7 @@
   "lib.StandingsPanel.factionsdailyca": "势力每日声望上限：",
   "lib.StandingsPanel.odeinfamydailyca": "讴德恶名每日上限：",
   "lib.StandingsPanel.factionstanding": "势力声望",
-  "lib.StandingsPanel.infavours": "当前好感度",
+  "lib.StandingsPanel.infavours": "当前可兑换物品",
   "lib.StandingsPanel.loadingstanding": "正在加载声望……",
   "lib.StandingsPanel.nofactionstandings": "暂无势力声望数据",
   "lib.StandingsPanel.rankn": "Rank {{n}}",
