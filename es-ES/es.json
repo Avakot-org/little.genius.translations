@@ -110,7 +110,7 @@
   "lib.ContextMenu.unhide": "Volver a mostrar",
   "lib.ContextMenu.unpin": "Desanclar",
   "lib.CosmeticsView.all": "Todo",
-  "lib.CosmeticsView.craftingtime": "Tiempo de fabricación:",
+  "lib.CosmeticsView.craftingtime": "Tiempo de ensamblación:",
   "lib.CosmeticsView.craftrequiremen": "Materiales necesarios",
   "lib.CosmeticsView.dropsources": "Dónde conseguirlos",
   "lib.CosmeticsView.fragmentsrequir": "Fragmentos requeridos:",
