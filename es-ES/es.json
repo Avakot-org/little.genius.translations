@@ -414,7 +414,7 @@
   "lib.SettingsModal.showodeinfamydesc": "Mostrar el sindicato Infamia de la Oda junto a la reputación de las facciones estándar",
   "lib.SettingsModal.settings": "Ajustes",
   "lib.SettingsModal.completionistmode": "Modo Coleccionista",
-  "lib.SettingsModal.completionistmodedesc": "Tracks 3 maxed copies of each Totem as the goal (one per weapon slot). Rune targets remain at 1×. Upgrade harmony costs in the Enhancements panel will reflect this three-copy target.",
+  "lib.SettingsModal.completionistmodedesc": "Registra 3 copias maximizadas de cada Tótem como objetivo (una por cada ranura de arma). Los objetivos de Runas se mantienen en 1×. Los costos de mejora de armonía en el panel de Mejoras reflejarán este objetivo de tres copias.",
   "lib.SoulmapView.soulframeintera": "Mapa interactivo de Soulframe",
   "lib.StandingsPanel.dailyresetin": "Reinicio diario en",
   "lib.StandingsPanel.factionsdailyca": "Límite diario de facciones:",
