@@ -412,7 +412,7 @@
   "lib.SettingsModal.invtableviewdesc": "Mostrar el inventario como una lista compacta en lugar de tarjetas",
   "lib.SettingsModal.showodeinfamy": "Mostrar Infamia de la Oda",
   "lib.SettingsModal.showodeinfamydesc": "Mostrar el sindicato Infamia de la Oda junto a la reputación de las facciones estándar",
-  "lib.SettingsModal.settings": "Settings",
+  "lib.SettingsModal.settings": "Ajustes",
   "lib.SettingsModal.completionistmode": "Completionist Mode",
   "lib.SettingsModal.completionistmodedesc": "Tracks 3 maxed copies of each Totem as the goal (one per weapon slot). Rune targets remain at 1×. Upgrade harmony costs in the Enhancements panel will reflect this three-copy target.",
   "lib.SoulmapView.soulframeintera": "Mapa interactivo de Soulframe",
