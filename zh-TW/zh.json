@@ -388,7 +388,7 @@
   "lib.ResourcePanel.craftableingredientdesc": "这是一个可制作的物品，可作为合成材料使用。\n你需要制作 ",
   "lib.ResourcePanel.trackedamount": "追踪数量",
   "lib.ResourcePanel.type": "类型：",
-  "lib.ResourcePanel.usedincrafting": "可用于制作",
+  "lib.ResourcePanel.usedincrafting": "可用于制造",
   "lib.ResourcePanel.viewininventory": "查看背包",
   "lib.ResourcePanel.viewitem": "查看物品",
   "lib.RightSidebar.masteryrank": "精通等级",
