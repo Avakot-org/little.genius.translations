@@ -423,7 +423,7 @@
   "lib.StandingsPanel.infavours": "贡品（当前可兑换物品）",
   "lib.StandingsPanel.loadingstanding": "正在加载声望……",
   "lib.StandingsPanel.nofactionstandings": "暂无势力声望数据",
-  "lib.StandingsPanel.rankn": "Rank {{n}}",
+  "lib.StandingsPanel.rankn": "等级 {{n}}",
   "lib.UpdateChecker.downloading": "正在下载……",
   "lib.UpdateChecker.updateavailable": "有可用更新",
   "lib.UpdateChecker.updatenow": "立即更新",
