@@ -417,7 +417,7 @@
   "lib.SettingsModal.completionistmodedesc": "将每种图腾的追踪数量设为 3 个（设定每个武器槽位1个）。符文的追踪数量仍为一个。升级面板中所消耗和谐将按三个图腾的追踪数量计算显示。",
   "lib.SoulmapView.soulframeintera": "Soulframe 互动地图",
   "lib.StandingsPanel.dailyresetin": "每日重置倒计时",
-  "lib.StandingsPanel.factionsdailyca": "势力每日上限：",
+  "lib.StandingsPanel.factionsdailyca": "势力声望每日上限：",
   "lib.StandingsPanel.odeinfamydailyca": "讴德恶名每日上限：",
   "lib.StandingsPanel.factionstanding": "势力声望",
   "lib.StandingsPanel.infavours": "贡品（当前可兑换物品）",
