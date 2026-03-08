@@ -339,7 +339,7 @@
   "lib.LoginGate.logingate": "登录界面",
   "lib.LoginGate.loginwithdiscor": "通过 Discord 登录",
   "lib.LoginGate.logoutswitchacc": "退出登录 / 切换账号",
-  "lib.LoginGate.discordrequiredreason": "出于安全性和可操作性的考虑，我们需要你在我们的……中",
+  "lib.LoginGate.discordrequiredreason": "出于安全性和可操作性的考虑，需要你加入我们",
   "lib.LoginGate.openbeta": "Soulframe 助手 · 公测版本",
   "lib.LoginGate.welcometoopenbeta": "欢迎体验公测版！使用 Discord 登录以开始体验。",
   "lib.LoginGate.workingonbettersolution": "在使用 Little Genius 时会遇到这个问题。我们最终会开发更好的解决方案——对由此带来的不便，我们深表歉意",
