@@ -385,7 +385,7 @@
   "lib.ResourcePanel.loadingresource": "正在加载资源……",
   "lib.ResourcePanel.rarity": "稀有度：",
   "lib.ResourcePanel.resourceinforma": "材料信息",
-  "lib.ResourcePanel.craftableingredientdesc": "这是一个可制作的物品，可作为合成材料使用。\n你需要制作 ",
+  "lib.ResourcePanel.craftableingredientdesc": "这是一个可制造的物品，同时也是其他配方所需的制造材料。\n            你需要制造它 ",
   "lib.ResourcePanel.trackedamount": "追踪数量",
   "lib.ResourcePanel.type": "类型：",
   "lib.ResourcePanel.usedincrafting": "可用于制造",
