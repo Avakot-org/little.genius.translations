@@ -244,6 +244,7 @@
   "lib.ArmoryView.primary": "Primary",
   "lib.ArmoryView.secondary": "Secondary",
   "lib.ArmoryView.pact": "Pact",
+  "lib.ArmoryView.prism": "Prism",
   "lib.ArmoryView.joinery": "Joinery",
   "lib.ArmoryView.rune": "Rune",
   "lib.ArmoryView.unknown": "Unknown",
