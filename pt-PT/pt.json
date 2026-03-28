@@ -531,7 +531,7 @@
   "lib.Navbar.weapontracker": "Rastrear Armas",
   "lib.Navbar.weapontrackervi": "Visualizar rastreamento de armas",
   "lib.Navbar.armoryview": "Visão do arsenal",
-  "lib.Navbar.journalview": "Journal",
+  "lib.Navbar.journalview": "Registro da sessão",
   "lib.Navbar.statsview": "Stats",
   "lib.OmniSearch.closesearch": "Fechar busca",
   "lib.OmniSearch.noresultsfound": "Nenhum resultado encontrado",
