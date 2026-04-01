@@ -356,7 +356,7 @@
   "lib.InventoryView.categoryweapons": "Waffe",
   "lib.InventoryView.categorydiscoveries": "Discoveries",
   "lib.InventoryView.discoverySubAll": "All",
-  "lib.InventoryView.discoverySubLocation": "Location",
+  "lib.InventoryView.discoverySubLocation": "Tiles",
   "lib.InventoryView.discoverySubFable": "Fables",
   "lib.InventoryView.discoverySubNote": "Notes",
   "lib.InventoryView.discoverySubTransmission": "Transmissions",
