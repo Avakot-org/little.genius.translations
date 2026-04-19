@@ -599,6 +599,8 @@
   "lib.RightSidebar.webGuest": "游客",
   "lib.RightSidebar.webAccountBadge": "账号",
   "lib.RightSidebar.masteryrank": "精通段位",
+  "lib.activeAvatarGlyph.alt": "Avatar motif: {{name}}",
+  "lib.activeAvatarGlyph.unknownMotif": "Unknown motif",
   "lib.RightSidebar.moonsteelthread": "月钢丝线",
   "lib.RightSidebar.weaponbintitle": "武器槽",
   "lib.RightSidebar.pactbintitle": "契约槽",
