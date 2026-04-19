@@ -365,7 +365,7 @@
   "lib.InventoryView.discoverySubOther": "杂项",
   "lib.InventoryView.discoveryEmpty": "暂无符合条件的发现。",
   "lib.InventoryView.discoveryNativeOnly": "绑定游戏账号后，可在桌面应用程序中查看发现。",
-  "lib.InventoryView.discoveryLoadError": "无法从库存中读取背景资料。",
+  "lib.InventoryView.discoveryLoadError": "Seems like the Soulmap API endpoint may be slow or down. :(",
   "lib.InventoryView.discoveryTypeLocation": "地点资料",
   "lib.InventoryView.discoveryTypeFable": "寓言",
   "lib.InventoryView.discoveryTypeNote": "备注",
