@@ -365,7 +365,7 @@
   "lib.InventoryView.discoverySubOther": "Other",
   "lib.InventoryView.discoveryEmpty": "No discoveries match your filters.",
   "lib.InventoryView.discoveryNativeOnly": "Discoveries are available in the desktop app with a linked game profile.",
-  "lib.InventoryView.discoveryLoadError": "Could not load lore scans from inventory.",
+  "lib.InventoryView.discoveryLoadError": "Seems like the Soulmap API endpoint may be slow or down. :(",
   "lib.InventoryView.discoveryTypeLocation": "Location lore",
   "lib.InventoryView.discoveryTypeFable": "Fable",
   "lib.InventoryView.discoveryTypeNote": "Note",
