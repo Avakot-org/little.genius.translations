@@ -599,6 +599,8 @@
   "lib.RightSidebar.webGuest": "Guest",
   "lib.RightSidebar.webAccountBadge": "Account",
   "lib.RightSidebar.masteryrank": "Mastery Rank",
+  "lib.activeAvatarGlyph.alt": "Avatar motif: {{name}}",
+  "lib.activeAvatarGlyph.unknownMotif": "Unknown motif",
   "lib.RightSidebar.moonsteelthread": "Moonsteel Thread",
   "lib.RightSidebar.weaponbintitle": "Weapon slots",
   "lib.RightSidebar.pactbintitle": "Pact slots",
