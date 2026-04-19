@@ -599,6 +599,8 @@
   "lib.RightSidebar.webGuest": "Convidado",
   "lib.RightSidebar.webAccountBadge": "Conta",
   "lib.RightSidebar.masteryrank": "Nível de Maestria",
+  "lib.activeAvatarGlyph.alt": "Avatar motif: {{name}}",
+  "lib.activeAvatarGlyph.unknownMotif": "Unknown motif",
   "lib.RightSidebar.moonsteelthread": "Fio de Aço Lunar",
   "lib.RightSidebar.weaponbintitle": "Weapon slots",
   "lib.RightSidebar.pactbintitle": "Pact slots",
