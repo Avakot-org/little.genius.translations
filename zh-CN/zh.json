@@ -617,7 +617,7 @@
   "dashboard.addTileToGrid": "将 {{widget}} 添加到控制面板",
   "dashboard.goToWidgetView": "前往关联视图",
   "dashboard.resizeHint": "编辑模式下，每个卡片右下角都有可用于调整大小的按钮。",
-  "lib.SettingsModal.close": "Close",
+  "lib.SettingsModal.close": "关闭",
   "dashboard.widgets.pinnedBosses": "置顶首领",
   "dashboard.widgets.pinnedResources": "置顶资源",
   "dashboard.widgets.pinnedJoineries": "置顶接合材料",
