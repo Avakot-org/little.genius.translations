@@ -511,7 +511,7 @@
   "lib.JournalView.statsBlockPacts": "Patti",
   "lib.JournalView.statsBlockEnemies": "Nemici",
   "lib.JournalView.statsBlockScalars": "Totali del Profilo",
-  "lib.StatsView.codexTitle": "Codex & Stats",
+  "lib.StatsView.codexTitle": "Codex & Statistiche",
   "lib.StatsView.codexTabsLabel": "Codex and stats sections",
   "lib.StatsView.codexTab": "Codex",
   "lib.StatsView.statsTab": "Stats",
