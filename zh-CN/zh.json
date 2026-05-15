@@ -635,7 +635,7 @@
   "lib.ItemChestView.noweapons": "背包中尚未拥有近战或远程武器。",
   "lib.ItemChestView.refreshing": "更新中……",
   "lib.ItemChestView.togglelist": "切换布局（网格 / 列表）",
-  "lib.ItemChestView.sort": "Sort",
+  "lib.ItemChestView.sort": "排序",
   "lib.ItemChestView.sortalphaasc": "名称（A–Z）",
   "lib.ItemChestView.sortalphadesc": "名称（Z–A）",
   "lib.ItemChestView.sortmasterydesc": "精通经验（高→低）",
