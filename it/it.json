@@ -418,7 +418,7 @@
   "lib.StatsView.colAssists": "Assist",
   "lib.StatsView.colHeadshots": "Colpi alla testa",
   "lib.StatsView.colExecutions": "Esecuzioni",
-  "lib.StatsView.colKills": "Uccisioi",
+  "lib.StatsView.colKills": "Uccisioni",
   "lib.StatsView.colXP": "XP",
   "lib.StatsView.colTimeUsed": "Tempo di utilizzo",
   "lib.StatsView.colTimeUsedTip": "Quanto a lungo è stato equipaggiato (ore o minuti), non contato in secondi.",
