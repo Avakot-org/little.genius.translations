@@ -244,6 +244,8 @@
   "lib.InventoryView.sortitems": "Sort items",
   "lib.InventoryView.sortmasteryasc": "Mastery (Low → High)",
   "lib.InventoryView.sortmasterydesc": "Mastery (High → Low)",
+  "lib.InventoryView.sortsetasc": "Set (A → Z)",
+  "lib.InventoryView.sortsetdesc": "Set (Z → A)",
   "lib.InventoryView.sortza": "Z → A",
   "lib.InventoryView.tablecolname": "Name",
   "lib.InventoryView.tablecoltype": "Type",
