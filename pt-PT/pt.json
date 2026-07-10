@@ -476,7 +476,7 @@
   "lib.ItemChestView.equippedenhancements": "Runas, totens e engaste equipados",
   "lib.ItemChestView.weapontempers": "Têmperas da arma",
   "lib.ItemChestView.norune": "Sem runa",
-  "lib.ItemChestView.qualitycrafted": "Stock",
+  "lib.ItemChestView.qualitycrafted": "Crafted",
   "lib.ItemChestView.nomatchingweapons": "Nenhuma arma corresponde aos filtros atuais.",
   "lib.ItemChestView.filterpanel": "Filtros",
   "lib.ItemChestView.filteractivedesc": "Filtros ativos",
@@ -497,7 +497,7 @@
   "lib.ItemChestView.filtertempertypetoggle": "Mostrar ou ocultar têmperas deste tipo",
   "lib.ItemChestView.filterrarity": "Raridade",
   "lib.ItemChestView.filterrarityall": "Todas as raridades",
-  "lib.ItemChestView.filterraritycrafted": "Stock",
+  "lib.ItemChestView.filterraritycrafted": "Crafted",
   "lib.ItemChestView.filterrarityhint": "Toque nos níveis que deseja acompanhar (qualquer um que corresponda — OU). As outras raridades continuam na grade, mas ficam esmaecidas, como as têmperas. Limpe para remover o esmaecimento por raridade.",
   "lib.ItemChestView.filterclearrarity": "Limpar raridade",
   "lib.ItemChestView.filtermoonsteel": "Aço Lunar",
@@ -521,7 +521,7 @@
   "lib.ItemChestView.statsfootscoped": "Mostrando estatísticas apenas de {{weapon}} — tudo abaixo conta somente essas cópias na grade atual.",
   "lib.ItemChestView.statstitle": "Estatísticas do Baú de Itens",
   "lib.ItemChestView.statsclose": "Fechar",
-  "lib.ItemChestView.statsfootview": "Counts match what you see in the grid right now.",
+  "lib.ItemChestView.statsfootview": "Counts match what you see in the grid right now (including “dropped only” when crafted weapons are hidden).",
   "lib.ItemChestView.statssectionstorage": "Armazenamento do inventário",
   "lib.ItemChestView.statsstoragelabel": "Itens / capacidade",
   "lib.ItemChestView.statsstoragedesc": "Armas únicas, pactos e peças de armadura no seu inventário (armaduras do tipo talismã excluídas) em relação à capacidade de armazenamento universal.",
@@ -979,5 +979,7 @@
   "help.section.patreon.adFree.title": "Experiência sem anúncios",
   "help.section.patreon.adFree.body": "Usuários gratuitos veem um pequeno painel de anúncios e avisos ocasionais sobre o Patreon. Apoiadores não veem nenhum dos dois — o app fica limpo e sem interrupções.",
   "help.section.patreon.communityVoice.title": "Influencie o que será desenvolvido",
-  "help.section.patreon.communityVoice.body": "Apoiadores têm um canal direto com o dev — envie pedidos de recursos, sinalize bugs com prioridade e vote no que chega a seguir. O roadmap é moldado pelas pessoas que mais usam o app."
+  "help.section.patreon.communityVoice.body": "Apoiadores têm um canal direto com o dev — envie pedidos de recursos, sinalize bugs com prioridade e vote no que chega a seguir. O roadmap é moldado pelas pessoas que mais usam o app.",
+  "lib.ItemChestView.droponlyactive": "Dropped-quality only — crafted weapons hidden. Click to show crafted.",
+  "lib.ItemChestView.showcraftedactive": "Showing crafted weapons too. Click to hide crafted."
 }
