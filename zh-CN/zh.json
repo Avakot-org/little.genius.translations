@@ -981,13 +981,13 @@
   "help.section.patreon.adFree.body": "免费用户会看到一个小型广告面板以及偶尔的 Patreon 赞助提示。支持者则不会看到这些内容——界面保持干净且不受打扰。",
   "help.section.patreon.communityVoice.title": "决定构建内容",
   "help.section.patreon.communityVoice.body": "支持者可以直接与开发者沟通——提交功能需求、优先反馈 bug，并参与下一步功能投票。产品路线图由使用最频繁的人共同塑造。",
-  "common.gripType.Greatsword": "Greatsword",
-  "common.gripType.Bow": "Bow",
-  "common.gripType.Flyblade": "Flyblade",
-  "common.gripType.Heavy": "Heavy",
-  "common.gripType.LongBlade": "Long Blade",
-  "common.gripType.Magick": "Magick",
-  "common.gripType.Polearm": "Polearm",
-  "common.gripType.Shield": "Shield",
-  "common.gripType.ShortBlade": "Short Blade"
+  "common.gripType.Greatsword": "大剑",
+  "common.gripType.Bow": "弓箭",
+  "common.gripType.Flyblade": "飞刃",
+  "common.gripType.Heavy": "重型",
+  "common.gripType.LongBlade": "长刀",
+  "common.gripType.Magick": "魔法武器",
+  "common.gripType.Polearm": "长柄武器",
+  "common.gripType.Shield": "剑盾",
+  "common.gripType.ShortBlade": "匕首"
 }
