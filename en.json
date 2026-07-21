@@ -980,5 +980,14 @@
   "help.section.patreon.adFree.title": "Ad-Free Experience",
   "help.section.patreon.adFree.body": "Free users see a small ad panel and occasional Patreon prompts. Supporters see neither — the app stays clean and uninterrupted.",
   "help.section.patreon.communityVoice.title": "Shape What Gets Built",
-  "help.section.patreon.communityVoice.body": "Supporters get a direct line to the dev — submit feature requests, flag bugs with priority, and vote on what lands next. The roadmap is shaped by the people who use it most."
+  "help.section.patreon.communityVoice.body": "Supporters get a direct line to the dev — submit feature requests, flag bugs with priority, and vote on what lands next. The roadmap is shaped by the people who use it most.",
+  "common.gripType.Greatsword": "Greatsword",
+  "common.gripType.Bow": "Bow",
+  "common.gripType.Flyblade": "Flyblade",
+  "common.gripType.Heavy": "Heavy",
+  "common.gripType.LongBlade": "Long Blade",
+  "common.gripType.Magick": "Magick",
+  "common.gripType.Polearm": "Polearm",
+  "common.gripType.Shield": "Shield",
+  "common.gripType.ShortBlade": "Short Blade"
 }
