@@ -982,12 +982,12 @@
   "help.section.patreon.communityVoice.title": "Influencie o que será desenvolvido",
   "help.section.patreon.communityVoice.body": "Apoiadores têm um canal direto com o dev — envie pedidos de recursos, sinalize bugs com prioridade e vote no que chega a seguir. O roadmap é moldado pelas pessoas que mais usam o app.",
   "common.gripType.Greatsword": "Greatsword",
-  "common.gripType.Bow": "Bow",
-  "common.gripType.Flyblade": "Flyblade",
-  "common.gripType.Heavy": "Heavy",
-  "common.gripType.LongBlade": "Long Blade",
-  "common.gripType.Magick": "Magick",
-  "common.gripType.Polearm": "Polearm",
-  "common.gripType.Shield": "Shield",
-  "common.gripType.ShortBlade": "Short Blade"
+  "common.gripType.Bow": "Arco",
+  "common.gripType.Flyblade": "Adagaérea",
+  "common.gripType.Heavy": "Pesada",
+  "common.gripType.LongBlade": "Lâmina Longa",
+  "common.gripType.Magick": "Magia",
+  "common.gripType.Polearm": "Arma de Haste",
+  "common.gripType.Shield": "Escudo",
+  "common.gripType.ShortBlade": "Lâmina Curta"
 }
