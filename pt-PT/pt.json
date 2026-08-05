@@ -737,9 +737,9 @@
   "lib.WorldBossTimers.eventtimers": "Temporizadores de eventos",
   "lib.WorldBossTimers.nobosses": "Sem temporizadores disponíveis.",
   "lib.WorldBossTimers.pinned": "Afixado",
-  "lib.WorldBossTimers.accountboons": "Account Boons",
-  "lib.WorldBossTimers.expiredat": "Expired {{time}}",
-  "lib.WorldBossTimers.dismiss": "Dismiss",
+  "lib.WorldBossTimers.accountboons": "Bênçãos da Conta",
+  "lib.WorldBossTimers.expiredat": "Expirou {{time}}",
+  "lib.WorldBossTimers.dismiss": "Dispensar",
   "lib.WorldBossTimers.refreshingbossdata": "Atualizando informações de chefe...",
   "lib.WorldBossTimers.viewlocation": "Ver localização",
   "lib.WorldBossTimers.webtrackrespawn": "Web: rastrear ressurgimento a partir de agora (usa tempo de recarga da API; limpe ao desativar)",
@@ -1004,7 +1004,7 @@
   "common.gripType.Polearm": "Arma de Haste",
   "common.gripType.Shield": "Escudo",
   "common.gripType.ShortBlade": "Lâmina Curta",
-  "common.virtue.courage": "Courage",
-  "common.virtue.grace": "Grace",
-  "common.virtue.spirit": "Spirit"
+  "common.virtue.courage": "Valentia",
+  "common.virtue.grace": "Dádiva",
+  "common.virtue.spirit": "Espírito"
 }
