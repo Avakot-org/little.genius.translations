@@ -17,7 +17,7 @@
   "lib.PwaMobileGate.iosStep2": "下滑页面，点击“添加到主屏幕”。",
   "lib.PwaMobileGate.iosStep3": "点击“添加”，然后从主屏幕打开 Little Genius。",
   "lib.PwaMobileGate.noPromptHint": "你的浏览器无法直接安装。Android 用户请尝试 Chrome 或 Edge；其他设备请通过“添加到主屏幕”或浏览器菜单中的“安装”来使用。",
-  "lib.VendorSourcePill.usdprice": "价格以美国市场为准。",
+  "lib.VendorSourcePill.usdprice": "价格以美国市场为准",
   "lib.VendorSourcePill.canbuy": "你当前的声望可以兑换 {{n}}",
   "lib.VersionAlerts.title": "已知问题",
   "lib.VersionAlerts.aria": "当前版本已知问题",
