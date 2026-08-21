@@ -518,7 +518,7 @@
   "lib.ItemChestView.filterclearrarity": "Wyczyść rzadkość",
   "lib.ItemChestView.filtermoonsteel": "Moonsteel",
   "lib.ItemChestView.filtermoonsteelonly": "Moonsteel only",
-  "lib.ItemChestView.filtermoonsteelhint": "When on, only Moonsteel variant weapons stay highlighted (inventory Shiny: true). Others stay visible but dimmed.",
+  "lib.ItemChestView.filtermoonsteelhint": "",
   "lib.ItemChestView.filterclearmoonsteel": "Clear Moonsteel",
   "lib.ItemChestView.moonsteelvariant": "Moonsteel Variant",
   "lib.ItemChestView.moonsteelshort": "Ksieżyc",
