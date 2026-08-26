@@ -925,7 +925,7 @@
   "help.section.sidebarStandings.factionProgress.title": "Postęp enklawy",
   "help.section.sidebarStandings.factionProgress.body": "Każda karta enklawy przedstawia Twój obecny poziom, próg punktowy do kolejnej rangi oraz pasek postępu wskazujący Twój stopień zaawansowania.",
   "help.section.sidebarStandings.odeSyndicate.title": "Synekura Ody",
-  "help.section.sidebarStandings.odeSyndicate.body": "Synekura Ody działa inaczej niż pozostałe enklawy — wykorzystuje skumulowaną sumę reputacji zamiast podziału na poziomy rang. Jej pasek postępu odzwierciedla ogólny limit niesławy.",
+  "help.section.sidebarStandings.odeSyndicate.body": "Synekura Ody działa inaczej niż pozostałe enklawy — wykorzystuje skumulowaną sumę reputacji zamiast podziału na poziomy rang. Jej pasek postępu odzwierciedla ogólny limit infamii.",
   "help.section.sidebarStandings.resetCountdown.title": "Odliczanie do resetu",
   "help.section.sidebarStandings.resetCountdown.body": "Licznik czasu wskazuje moment resetu codziennego limitu reputacji (północ czasu UTC). Zaplanuj swoje sesje gry na koniec dnia uwzględniając ten czas.",
   "help.section.sidebarStandings.resetCountdown.cta": "Przejdź do zakładki Reputacja",
