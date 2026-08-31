@@ -198,6 +198,8 @@
   "lib.ArmoryView.pasteBuildCode": "Paste build code",
   "lib.ArmoryView.invalidBuildCode": "Invalid build code.",
   "lib.ArmoryView.websiteBuildFailed": "Couldn't load that build from avakot.build.",
+  "lib.ArmoryView.copiedLink": "Copied avakot.build link to clipboard.",
+  "lib.ArmoryView.byAuthor": "by",
   "lib.ArmoryView.pickItem": "Pick item",
   "lib.IndividualTracker.addweapon": "Add Weapon",
   "lib.IndividualTracker.addweapontotrac": "Add Weapon to Track",
