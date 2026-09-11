@@ -64,7 +64,7 @@
   "lib.CosmeticsView.type": "Typ",
   "lib.CreditsModal.art": "Art",
   "lib.CreditsModal.disclaimer": "Haftungsausschluss",
-  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 20)",
   "lib.CreditsModal.loading": "Lade…",
   "lib.CreditsModal.loadingpatrons": "Lade Unterstützer…",
   "lib.CreditsModal.notaffiliatedde": "Dieses Projekt ist nicht mit Digital Extremes verbunden. Alle Bilder und Ressourcen für Waffen, Rüstungen, Pakte, Totems, Runen, Verbrauchsgüter, Kosmetika und mehr sind deren geistiges Eigentum.",

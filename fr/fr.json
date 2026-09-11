@@ -64,7 +64,7 @@
   "lib.CosmeticsView.type": "Type",
   "lib.CreditsModal.art": "Art",
   "lib.CreditsModal.disclaimer": "Disclaimer",
-  "lib.CreditsModal.innercircletier": "Cercle Restreint ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Cercle Restreint ({{count}} / 20)",
   "lib.CreditsModal.loading": "Chargement",
   "lib.CreditsModal.loadingpatrons": "Chargement des patrons",
   "lib.CreditsModal.notaffiliatedde": "This project is not affiliated to Digital Extremes. All images and assets for weapons, armor, pacts, totems, runes, consumables, cosmetics, and more are their intellectual property.",

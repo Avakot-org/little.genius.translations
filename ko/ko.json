@@ -64,7 +64,7 @@
   "lib.CosmeticsView.type": "Type",
   "lib.CreditsModal.art": "기술",
   "lib.CreditsModal.disclaimer": "면책 조항",
-  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 20)",
   "lib.CreditsModal.loading": "Loadingâ€¦",
   "lib.CreditsModal.loadingpatrons": "Loading patronsâ€¦",
   "lib.CreditsModal.notaffiliatedde": "This project is not affiliated to Digital Extremes. All images and assets for weapons, armor, pacts, totems, runes, consumables, cosmetics, and more are their intellectual property.",

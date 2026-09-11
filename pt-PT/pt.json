@@ -54,7 +54,7 @@
   "lib.CosmeticsView.type": "Tipo",
   "lib.CreditsModal.art": "Arte",
   "lib.CreditsModal.disclaimer": "Aviso Legal",
-  "lib.CreditsModal.innercircletier": "Círculo Interno ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Círculo Interno ({{count}} / 20)",
   "lib.CreditsModal.loading": "Carregando…",
   "lib.CreditsModal.loadingpatrons": "Carregando patrocinadores…",
   "lib.CreditsModal.notaffiliatedde": "Este projeto não está afiliado a Digital Extremes. Todas as imagens e ativos de armas, armaduras, pactos, totens, runas, consumíveis, cosméticos, entre outros são propriedade intelectual dos mesmos.",

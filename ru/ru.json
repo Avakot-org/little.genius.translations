@@ -54,7 +54,7 @@
   "lib.CosmeticsView.type": "Тип",
   "lib.CreditsModal.art": "Графика",
   "lib.CreditsModal.disclaimer": "Дисклеймер",
-  "lib.CreditsModal.innercircletier": "Внутренний круг ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Внутренний круг ({{count}} / 20)",
   "lib.CreditsModal.loading": "Загрузка",
   "lib.CreditsModal.loadingpatrons": "Загрузка патронов",
   "lib.CreditsModal.notaffiliatedde": "Этот проект никак не связан с Digital Extremes. Все изображения и ассеты оружия, брони, пактов, тотемов, рун, расходников, косметических предметов, и многого другого является интеллектуальной собственностью Digital Extremes.",

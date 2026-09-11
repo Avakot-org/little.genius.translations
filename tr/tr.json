@@ -64,7 +64,7 @@
   "lib.CosmeticsView.type": "Tür",
   "lib.CreditsModal.art": "Sanat",
   "lib.CreditsModal.disclaimer": "Sorumluluk Reddi",
-  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Inner Circle ({{count}} / 20)",
   "lib.CreditsModal.loading": "Yükleniyor…",
   "lib.CreditsModal.loadingpatrons": "Destekçiler yükleniyor…",
   "lib.CreditsModal.notaffiliatedde": "Bu proje Digital Extremes ile bağlantılı değildir. Silahlar, zırhlar, ahitler, totemler, rünler, sarf malzemeleri, kozmetikler ve daha fazlasına ait tüm görseller ve varlıklar onların fikri mülkiyetidir.",

@@ -54,7 +54,7 @@
   "lib.CosmeticsView.type": "类型",
   "lib.CreditsModal.art": "美术",
   "lib.CreditsModal.disclaimer": "免责声明",
-  "lib.CreditsModal.innercircletier": "核心成员（{{count}} / 10）",
+  "lib.CreditsModal.innercircletier": "核心成员（{{count}} / 20）",
   "lib.CreditsModal.loading": "正在加载……",
   "lib.CreditsModal.loadingpatrons": "赞助者列表正在加载…",
   "lib.CreditsModal.notaffiliatedde": "本项目与 Digital Extremes 无关联。文中涉及的武器，护甲，契约，图腾，符文，消耗品，外观等所有图片和资源均属于 Digital Extremes 的知识产权。",

@@ -64,7 +64,7 @@
   "lib.CosmeticsView.type": "Tipo",
   "lib.CreditsModal.art": "Arte",
   "lib.CreditsModal.disclaimer": "Disclaimer",
-  "lib.CreditsModal.innercircletier": "Cerchia interna ({{count}} / 10)",
+  "lib.CreditsModal.innercircletier": "Cerchia interna ({{count}} / 20)",
   "lib.CreditsModal.loading": "Caricamento",
   "lib.CreditsModal.loadingpatrons": "Caricando Patrons",
   "lib.CreditsModal.notaffiliatedde": "Questo progetto non é affiliato a Digital Extremes. Tutte le immagini e risorse per armi, armature, patti, totem, rune, consumabili, cosmetici, ed altro sono loro proprietà intellettuale.",
