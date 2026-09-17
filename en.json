@@ -564,6 +564,7 @@
   "lib.ItemChestView.filterweapon": "Weapon",
   "lib.ItemChestView.filterweaponall": "All weapons",
   "lib.ItemChestView.filtertempers": "Tempers",
+  "lib.ItemChestView.filtertemperstackhint": "Click a temper to require it, click again to require it doubled (2x), click again to clear.",
   "lib.ItemChestView.filtercleartempers": "Clear tempers",
   "lib.ItemChestView.filternotempercatalog": "No temper catalog loaded yet.",
   "lib.ItemChestView.filteredit": "Edit filters",
