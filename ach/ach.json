@@ -564,7 +564,7 @@
   "lib.ItemChestView.filterweapon": "crwdns3181:0crwdne3181:0",
   "lib.ItemChestView.filterweaponall": "crwdns3183:0crwdne3183:0",
   "lib.ItemChestView.filtertempers": "crwdns3185:0crwdne3185:0",
-  "lib.ItemChestView.filtertemperstackhint": "Click a temper to require it, click again to require it doubled (2x), click again to clear.",
+  "lib.ItemChestView.filtertemperstackhint": "crwdns4336:0crwdne4336:0",
   "lib.ItemChestView.filtercleartempers": "crwdns3187:0crwdne3187:0",
   "lib.ItemChestView.filternotempercatalog": "crwdns3189:0crwdne3189:0",
   "lib.ItemChestView.filteredit": "crwdns3191:0crwdne3191:0",
