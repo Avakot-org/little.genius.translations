@@ -547,7 +547,6 @@
   "lib.CodexView.tuvalkaneRank": "Rank {{rank}}",
   "lib.CodexView.tuvalkaneXp": "{{xp}} XP",
   "lib.CodexView.weaponsSection": "Weapons",
-  "lib.CodexView.epithetsSection": "Epithets",
   "lib.CodexView.searchPlaceholder": "Search Tuvalkane's record",
   "lib.CodexView.emptyNative": "Open the game to sync Tuvalkane's crafting record",
   "lib.CodexView.loading": "Loading Tuvalkane's record…",
