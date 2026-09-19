@@ -547,6 +547,7 @@
   "lib.CodexView.tuvalkaneRank": "等级 {{rank}}",
   "lib.CodexView.tuvalkaneXp": "{{xp}} 经验值",
   "lib.CodexView.weaponsSection": "武器",
+  "lib.CodexView.epithetsSection": "Epithets",
   "lib.CodexView.searchPlaceholder": "搜索图瓦卡恩的记录",
   "lib.CodexView.emptyNative": "打开游戏以同步图瓦卡恩的锻造记录",
   "lib.CodexView.loading": "正在加载图瓦卡恩的记录……",

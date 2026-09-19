@@ -547,6 +547,7 @@
   "lib.CodexView.tuvalkaneRank": "Ranga {{rank}}",
   "lib.CodexView.tuvalkaneXp": "{{xp}} PD",
   "lib.CodexView.weaponsSection": "Bronie",
+  "lib.CodexView.epithetsSection": "Epithets",
   "lib.CodexView.searchPlaceholder": "Przeszukaj rejestr Tuvalkane",
   "lib.CodexView.emptyNative": "Otwórz grę, aby zsynchronizować rejestr wytwarzania u Tuvalkane",
   "lib.CodexView.loading": "Wczytywanie rejestru Tuvalkane…",
