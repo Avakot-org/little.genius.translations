@@ -564,7 +564,7 @@
   "lib.ItemChestView.filterweapon": "Arma",
   "lib.ItemChestView.filterweaponall": "Todas as armas",
   "lib.ItemChestView.filtertempers": "Têmperas",
-  "lib.ItemChestView.filtertemperstackhint": "Click a temper to require it, click again to require it doubled (2x), click again to clear.",
+  "lib.ItemChestView.filtertemperstackhint": "Clique em uma têmpera para incluí-la como requisito, clique novamente para exigir duas (2x) e clique mais uma vez para limpar.",
   "lib.ItemChestView.filtercleartempers": "Limpar têmperas",
   "lib.ItemChestView.filternotempercatalog": "Nenhum catálogo de têmperas carregado ainda.",
   "lib.ItemChestView.filteredit": "Editar filtros",
