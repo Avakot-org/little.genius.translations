@@ -547,7 +547,7 @@
   "lib.CodexView.tuvalkaneRank": "crwdns4316:0{{rank}}crwdne4316:0",
   "lib.CodexView.tuvalkaneXp": "crwdns4318:0{{xp}}crwdne4318:0",
   "lib.CodexView.weaponsSection": "crwdns4320:0crwdne4320:0",
-  "lib.CodexView.epithetsSection": "Epithets",
+  "lib.CodexView.epithetsSection": "crwdns4366:0crwdne4366:0",
   "lib.CodexView.searchPlaceholder": "crwdns4322:0crwdne4322:0",
   "lib.CodexView.emptyNative": "crwdns4324:0crwdne4324:0",
   "lib.CodexView.loading": "crwdns4326:0crwdne4326:0",
