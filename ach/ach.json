@@ -327,7 +327,7 @@
   "lib.InventoryView.temperFilterUnlocked": "crwdns4348:0crwdne4348:0",
   "lib.InventoryView.temperEmpty": "crwdns4350:0crwdne4350:0",
   "lib.InventoryView.temperLoadError": "crwdns4352:0crwdne4352:0",
-  "lib.CompanionsPanel.loadError": "Couldn't load companion names. Check your connection and try again.",
+  "lib.CompanionsPanel.loadError": "crwdns4374:0crwdne4374:0",
   "lib.InventoryView.temperCopiesLearned": "crwdns4354:0{n}crwdnd4354:0{goal}crwdne4354:0",
   "lib.InventoryView.temperOnYourWeapons": "crwdns4356:0crwdne4356:0",
   "lib.InventoryView.temperNoOwnedWeapons": "crwdns4358:0crwdne4358:0",
