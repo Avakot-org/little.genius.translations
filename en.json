@@ -327,7 +327,6 @@
   "lib.InventoryView.temperFilterUnlocked": "Unlocked",
   "lib.InventoryView.temperEmpty": "No tempers match your filters.",
   "lib.InventoryView.temperLoadError": "Couldn't load the temper catalog. :(",
-  "lib.CompanionsPanel.loadError": "Couldn't load companion names. Check your connection and try again.",
   "lib.InventoryView.temperCopiesLearned": "{n} of {goal} copies learned",
   "lib.InventoryView.temperOnYourWeapons": "On your weapons",
   "lib.InventoryView.temperNoOwnedWeapons": "None of your weapons have this temper.",
