@@ -327,7 +327,7 @@
   "lib.InventoryView.temperFilterUnlocked": "Desbloqueadas",
   "lib.InventoryView.temperEmpty": "Nenhuma têmpera corresponde aos seus filtros.",
   "lib.InventoryView.temperLoadError": "Não foi possível carregar o catálogo de têmperas. :(",
-  "lib.CompanionsPanel.loadError": "Couldn't load companion names. Check your connection and try again.",
+  "lib.CompanionsPanel.loadError": "Não foi possível carregar os nomes dos companheiros. Verifique sua conexão e tente novamente.",
   "lib.InventoryView.temperCopiesLearned": "{n} de {goal} cópias coletadas",
   "lib.InventoryView.temperOnYourWeapons": "Nas suas armas",
   "lib.InventoryView.temperNoOwnedWeapons": "Nenhuma das suas armas possui esta têmpera.",
