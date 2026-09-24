@@ -680,7 +680,7 @@
   "lib.SettingsModal.showodeinfamy": "顯示歐德惡名",
   "lib.SettingsModal.showodeinfamydesc": "同時顯示預設陣營聲望與讴德惡名",
   "lib.SettingsModal.unpingloballabel": "取消固定（全局）",
-  "lib.SettingsModal.unpinglobaldesc": "移除各面板（库存、强化、资源、强敌、排名）中的所有固定物品。右键菜单“取消所有固定”仅作用于当前面板。",
+  "lib.SettingsModal.unpinglobaldesc": "移除库存、强化、资源、劲敌和排名中的所有置顶项目。通过右键菜单中的“取消全部置顶”只能清除当前打开面板中的置顶项目。",
   "lib.SettingsModal.unpinglobalbutton": "取消所有固定……",
   "lib.SettingsModal.unpinglobalconfirm": "是否要移除所有面板中的固定项？此操作无法撤销。",
   "lib.SettingsModal.settings": "設定",
