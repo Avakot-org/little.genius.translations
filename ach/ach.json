@@ -863,6 +863,8 @@
   "help.section.privacy.localOnly.body": "crwdns3432:0crwdne3432:0",
   "help.section.privacy.progressTracking.title": "crwdns3434:0crwdne3434:0",
   "help.section.privacy.progressTracking.body": "crwdns3436:0crwdne3436:0",
+  "help.section.privacy.analytics.title": "Usage Analytics (Web Only)",
+  "help.section.privacy.analytics.body": "The web version uses Google Analytics to count visits and see which pages get used, so we know what to improve. It collects standard browser info (pages viewed, rough location, device type), never your tracked items or account data. The desktop app sends no analytics. Browser tracker/ad blockers will turn it off.",
   "help.section.privacy.soulmapSignIn.title": "crwdns3438:0crwdne3438:0",
   "help.section.privacy.soulmapSignIn.body": "crwdns3440:0crwdne3440:0",
   "help.section.privacy.deletingEverything.title": "crwdns3442:0crwdne3442:0",

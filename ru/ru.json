@@ -863,6 +863,8 @@
   "help.section.privacy.localOnly.body": "Данные инвентаря, таймеров крафта, репутации и профиля сохраняются только на вашем компьютере. Кэш зашифрован и привязан к устройству. Он не удаляется при закрытии приложения или перезагрузке компьютера.",
   "help.section.privacy.progressTracking.title": "Отслеживание прогресса",
   "help.section.privacy.progressTracking.body": "Отметки предметов, закреплённые ресурсы и боссы, а также сохранённые билды хранятся в локальном хранилище браузера и автоматически сохраняются между сессиями.",
+  "help.section.privacy.analytics.title": "Usage Analytics (Web Only)",
+  "help.section.privacy.analytics.body": "The web version uses Google Analytics to count visits and see which pages get used, so we know what to improve. It collects standard browser info (pages viewed, rough location, device type), never your tracked items or account data. The desktop app sends no analytics. Browser tracker/ad blockers will turn it off.",
   "help.section.privacy.soulmapSignIn.title": "Вход через Discord (необязательно)",
   "help.section.privacy.soulmapSignIn.body": "Вход через Discord позволяет Little Genius определить ваш уровень подписки Patreon и автоматически активировать бонусы подписчика. Это необязательно: все основные функции работают без учётной записи. Данные Discord используются только для подтверждения уровня подписки.",
   "help.section.privacy.deletingEverything.title": "Удаление всех данных",

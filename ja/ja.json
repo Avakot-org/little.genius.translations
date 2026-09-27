@@ -863,6 +863,8 @@
   "help.section.privacy.localOnly.body": "Inventory, crafting timers, standings, and profile data are cached on your machine only. The cache is encrypted and tied to your device. Closing the app or rebooting your PC does not delete it.",
   "help.section.privacy.progressTracking.title": "Progress Tracking",
   "help.section.privacy.progressTracking.body": "Your item check-marks, resource pins, pinned bosses, and build saves are stored in your browser's local storage. They stay between sessions automatically.",
+  "help.section.privacy.analytics.title": "Usage Analytics (Web Only)",
+  "help.section.privacy.analytics.body": "The web version uses Google Analytics to count visits and see which pages get used, so we know what to improve. It collects standard browser info (pages viewed, rough location, device type), never your tracked items or account data. The desktop app sends no analytics. Browser tracker/ad blockers will turn it off.",
   "help.section.privacy.soulmapSignIn.title": "Discord Sign-in (Optional)",
   "help.section.privacy.soulmapSignIn.body": "Signing in with Discord lets Little Genius recognize your Patreon tier so your supporter perks activate automatically. It is completely optional — every core feature works without an account. Your Discord data is used only to verify your tier.",
   "help.section.privacy.deletingEverything.title": "Deleting Everything",
