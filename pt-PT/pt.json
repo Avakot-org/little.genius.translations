@@ -425,7 +425,7 @@
   "lib.JournalView.findMatchesZero": "Nenhum resultado",
   "lib.JournalView.findMatchesOne": "1 resultado",
   "lib.JournalView.findMatchesMany": "{{count}} resultados",
-  "lib.JournalView.findClear": "Clear search",
+  "lib.JournalView.findClear": "Limpar busca",
   "lib.JournalView.findPreviousMatch": "Resultado anterior",
   "lib.JournalView.findNextMatch": "Próximo resultado",
   "lib.JournalView.findNavigateGroup": "Navegação de resultados",
