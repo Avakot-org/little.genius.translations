@@ -425,7 +425,7 @@
   "lib.JournalView.findMatchesZero": "暂无匹配结果",
   "lib.JournalView.findMatchesOne": "匹配结果：1",
   "lib.JournalView.findMatchesMany": "匹配结果：{{count}}",
-  "lib.JournalView.findCloseAria": "关闭日志搜索",
+  "lib.JournalView.findClear": "Clear search",
   "lib.JournalView.findPreviousMatch": "上一个匹配结果",
   "lib.JournalView.findNextMatch": "下一个匹配结果",
   "lib.JournalView.findNavigateGroup": "匹配结果导航",

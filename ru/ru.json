@@ -425,7 +425,7 @@
   "lib.JournalView.findMatchesZero": "Совпадений нет",
   "lib.JournalView.findMatchesOne": "1 совпадение",
   "lib.JournalView.findMatchesMany": "Совпадений: {{count}}",
-  "lib.JournalView.findCloseAria": "Закрыть поиск по журналу",
+  "lib.JournalView.findClear": "Clear search",
   "lib.JournalView.findPreviousMatch": "Предыдущее совпадение",
   "lib.JournalView.findNextMatch": "Следующее совпадение",
   "lib.JournalView.findNavigateGroup": "Навигация по совпадениям",
