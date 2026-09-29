@@ -425,7 +425,7 @@
   "lib.JournalView.findMatchesZero": "crwdns3239:0crwdne3239:0",
   "lib.JournalView.findMatchesOne": "crwdns3241:0crwdne3241:0",
   "lib.JournalView.findMatchesMany": "crwdns3243:0{{count}}crwdne3243:0",
-  "lib.JournalView.findClear": "Clear search",
+  "lib.JournalView.findClear": "crwdns4384:0crwdne4384:0",
   "lib.JournalView.findPreviousMatch": "crwdns3247:0crwdne3247:0",
   "lib.JournalView.findNextMatch": "crwdns3249:0crwdne3249:0",
   "lib.JournalView.findNavigateGroup": "crwdns3251:0crwdne3251:0",
