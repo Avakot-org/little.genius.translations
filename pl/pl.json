@@ -655,7 +655,7 @@
   "lib.RightSidebar.webGuest": "Gość",
   "lib.RightSidebar.webAccountBadge": "Konto",
   "lib.RightSidebar.masteryrank": "Mastery Rank",
-  "lib.RightSidebar.envoyrank": "Envoy Rank {{n}}",
+  "lib.RightSidebar.envoyrank": "Ranga Wysłannika {{n}}",
   "lib.activeAvatarGlyph.alt": "Motyw awatara: {{name}}",
   "lib.activeAvatarGlyph.unknownMotif": "Nieznany motyw",
   "lib.RightSidebar.moonsteelthread": "Moonsteel Thread",
