@@ -889,7 +889,7 @@
   "lib.WorldBossTimers.expiredat": "Expired {{time}}",
   "lib.WorldBossTimers.dismiss": "Ignorer",
   "lib.WorldBossTimers.refreshingbossdata": "Actualisation des données de boss...",
-  "lib.WorldBossTimers.viewlocation": "Voir l'emplacement",
+  "lib.WorldBossTimers.viewlocation": "Voir l'emplacement sur Soulmap",
   "lib.WorldBossTimers.webtrackrespawn": "Web: track respawn from now (uses API cooldown; clear by toggling off)",
   "lib.WorldBossTimers.notifythisboss": "M'alerter quand ce boss réapparaît",
   "lib.WorldBossTimers.wevetseedname": "Graine de Wevette",
