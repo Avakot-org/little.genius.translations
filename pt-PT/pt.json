@@ -594,7 +594,7 @@
   "lib.SessionAnalysis.rankChange": "Nível {{from}} → {{to}}",
   "lib.SessionAnalysis.discoveryProgress": "Memórias encontradas",
   "lib.MasteryPlanner.missing": "Itens faltando",
-  "lib.MasteryPlanner.addAll": "Adicionar todos ao planejamento",
+  "lib.MasteryPlanner.addAll": "Adicionar todos ao planejador",
   "lib.MasteryPlanner.nothingMissing": "Você possui todas as armas e pactos.",
   "lib.MasteryPlanner.freeCap": "Listagem do planejador gratuito comporta {{n}} itens; Assinantes do Patreon tem uso ilimitado.",
   "lib.MasteryPlanner.addedToast": "{{n}} Itens adicionados ao planejador ({{none}} não possuem fonte conhecida).",
