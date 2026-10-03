@@ -970,7 +970,7 @@
   "help.section.armory.creatingBuild.title": "Créer un build",
   "help.section.armory.creatingBuild.body": "Cliquez sur le bouton \"Nouveau build\" en haut de l'écran. Donnez-lui un nom, puis sélectionnez votre arme, armure, pacte, etc. Le build est enregistré localement dès que vous cliquez sur \"Enregistrer le build\".",
   "help.section.armory.slotSelection.title": "Sélection d'équipement",
-  "help.section.armory.slotSelection.body": "Each slot opens an item picker with search and filter. Items you own are highlighted so you can see at a glance what's available to you right now.",
+  "help.section.armory.slotSelection.body": "Dans l'écran de création de build, cliquer sur un emplacement ouvre un sélecteur. Seuls les éléments que vous possédez y sont mis en valeur, ce qui vous permet de savoir en un coup d'œil si votre projet de build est actuellement réalisable ou non.",
   "help.section.armory.yourLoadouts.title": "Vos équipements",
   "help.section.armory.yourLoadouts.body": "When synced, your current active loadouts appear alongside your saved builds so you can compare theory vs. practice.",
   "help.section.armory.sharingBuilds.title": "Partager un build",
