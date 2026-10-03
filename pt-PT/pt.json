@@ -551,7 +551,7 @@
   "lib.Navbar.masteryview": "Auxiliar de Maestria",
   "lib.MasteryHelper.currentRank": "Nível de Arauto",
   "lib.MasteryHelper.maxRank": "Nível máximo possível",
-  "lib.MasteryHelper.intoRank": "{{n}}% em nível",
+  "lib.MasteryHelper.intoRank": "{{n}}% do nível",
   "lib.MasteryHelper.toNext": "{{n}} para o próximo nível",
   "lib.MasteryHelper.left": "{{n}} maestria restante",
   "lib.MasteryHelper.all": "Todas",
