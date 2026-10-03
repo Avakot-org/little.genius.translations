@@ -972,7 +972,7 @@
   "help.section.armory.slotSelection.title": "Sélection d'équipement",
   "help.section.armory.slotSelection.body": "Dans l'écran de création de build, cliquer sur un emplacement ouvre un sélecteur. Seuls les éléments que vous possédez y sont mis en valeur, ce qui vous permet de savoir en un coup d'œil si votre projet de build est actuellement réalisable ou non.",
   "help.section.armory.yourLoadouts.title": "Vos équipements",
-  "help.section.armory.yourLoadouts.body": "When synced, your current active loadouts appear alongside your saved builds so you can compare theory vs. practice.",
+  "help.section.armory.yourLoadouts.body": "Quand Little Genius est synchronisé avec Soulframe, les équipements que vous avez composés en jeu apparaissent avec vos builds enregistrés.",
   "help.section.armory.sharingBuilds.title": "Partager un build",
   "help.section.armory.sharingBuilds.body": "Every saved build can be exported as a short build code — a string you can paste into chat, Discord, or a guide. Others can import it by pasting the code into the Armory import field.",
   "help.section.armory.sharingBuilds.cta": "Aller à l'Arsenal",
