@@ -459,7 +459,7 @@
   "lib.JournalView.badgeFragment": "Fragment",
   "lib.JournalView.badgeMaterial": "Material",
   "lib.JournalView.craftedSuffix": "(crafted)",
-  "lib.JournalView.enhancementRank": "rank {{rank}}",
+  "lib.JournalView.enhancementRank": "rang {{rank}}",
   "lib.JournalView.badgeCurrency": "Monnaie",
   "lib.JournalView.badgeXp": "EXP",
   "lib.JournalView.xpSuffix": "EXP",
