@@ -757,7 +757,7 @@
   "lib.StandingsPanel.dailyresetin": "每日重置倒计时",
   "lib.StandingsPanel.factionsdailyca": "势力声望每日上限：",
   "lib.StandingsPanel.odeinfamydailyca": "讴德恶名每日上限：",
-  "lib.StandingsPanel.infavours": "贡品（当前可兑换物品）",
+  "lib.StandingsPanel.infavours": "交换声望（当前可兑换物品）",
   "lib.StandingsPanel.loadingstanding": "正在加载声望……",
   "lib.StandingsPanel.nofactionstandings": "暂无势力声望数据",
   "lib.StandingsPanel.rankn": "等级 {{n}}",
