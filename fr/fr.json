@@ -674,7 +674,7 @@
   "lib.ItemChestView.statsfootview": "Counts match what you see in the grid right now.",
   "lib.ItemChestView.statssectionstorage": "Inventory storage",
   "lib.ItemChestView.statsstoragelabel": "Items / capacity",
-  "lib.ItemChestView.statsstoragedesc": "Unique weapons, pacts, and armor pieces in your inventory (talisman-type armor excluded) versus universal storage capacity.",
+  "lib.ItemChestView.statsstoragedesc": "Le nombre d'armes, pactes et pièces d'armures uniques dans votre inventaire (talismans exclus) par rapport à la capacité maximale de ce dernier.",
   "lib.ItemChestView.statssectionsummary": "Vue d'ensemble",
   "lib.ItemChestView.statstotallabel": "Dans l'inventaire",
   "lib.ItemChestView.statsmelee": "Mêlée",
