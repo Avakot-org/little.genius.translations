@@ -757,7 +757,7 @@
   "lib.StandingsPanel.dailyresetin": "每日重置倒數計時",
   "lib.StandingsPanel.factionsdailyca": "勢力聲望每日上限：",
   "lib.StandingsPanel.odeinfamydailyca": "歐德惡名每日上限：",
-  "lib.StandingsPanel.infavours": "貢品（當前可兌換物品）",
+  "lib.StandingsPanel.infavours": "交換聲望（目前可兌換物品）",
   "lib.StandingsPanel.loadingstanding": "正在載入聲望……",
   "lib.StandingsPanel.nofactionstandings": "暫無勢力聲望資料",
   "lib.StandingsPanel.rankn": "等級 {{n}}",
