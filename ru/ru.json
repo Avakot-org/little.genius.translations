@@ -583,7 +583,7 @@
   "lib.MasteryHelper.ownedCount": "{{n}}/{{total}} в наличии",
   "lib.SessionAnalysis.range_current": "Текущий сеанс",
   "lib.SessionAnalysis.range_last": "Последний сеанс",
-  "lib.SessionAnalysis.waitingLive": "Waiting on LG to go Live",
+  "lib.SessionAnalysis.waitingLive": "Ожидание перехода Little Genius в активный режим",
   "lib.SessionAnalysis.range_7d": "7 дней",
   "lib.SessionAnalysis.range_30d": "30 дней",
   "lib.SessionAnalysis.range_all": "За всё время",
