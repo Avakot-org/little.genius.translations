@@ -583,6 +583,7 @@
   "lib.MasteryHelper.ownedCount": "{{n}}/{{total}} posiadanych",
   "lib.SessionAnalysis.range_current": "Obecna sesja",
   "lib.SessionAnalysis.range_last": "Ostatnia sesja",
+  "lib.SessionAnalysis.waitingLive": "Waiting on LG to go Live",
   "lib.SessionAnalysis.range_7d": "7 dni",
   "lib.SessionAnalysis.range_30d": "30 dni",
   "lib.SessionAnalysis.range_all": "Cały okres",
