@@ -583,7 +583,7 @@
   "lib.MasteryHelper.ownedCount": "crwdns4440:0{{n}}crwdnd4440:0{{total}}crwdne4440:0",
   "lib.SessionAnalysis.range_current": "crwdns4442:0crwdne4442:0",
   "lib.SessionAnalysis.range_last": "crwdns4444:0crwdne4444:0",
-  "lib.SessionAnalysis.waitingLive": "Waiting on LG to go Live",
+  "lib.SessionAnalysis.waitingLive": "crwdns4536:0crwdne4536:0",
   "lib.SessionAnalysis.range_7d": "crwdns4446:0crwdne4446:0",
   "lib.SessionAnalysis.range_30d": "crwdns4448:0crwdne4448:0",
   "lib.SessionAnalysis.range_all": "crwdns4450:0crwdne4450:0",
