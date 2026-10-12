@@ -330,7 +330,7 @@
   "lib.InventoryView.temperFilterUnknown": "Desconhecidas",
   "lib.InventoryView.temperFilterInProgress": "Em progresso",
   "lib.InventoryView.temperFilterUnlocked": "Desbloqueadas",
-  "lib.InventoryView.temperFilterUnfinished": "Unfinished",
+  "lib.InventoryView.temperFilterUnfinished": "Não finalizada",
   "lib.InventoryView.temperEmpty": "Nenhuma têmpera corresponde aos seus filtros.",
   "lib.InventoryView.temperLoadError": "Não foi possível carregar o catálogo de têmperas. :(",
   "lib.CompanionsPanel.loadError": "Não foi possível carregar os nomes dos companheiros. Verifique sua conexão e tente novamente.",
