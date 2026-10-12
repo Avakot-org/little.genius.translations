@@ -613,7 +613,7 @@
   "lib.MasteryPlanner.addedToast": "Dodano {{n}} przedmiotów do planera ({{none}} nie ma znanego źródła).",
   "lib.MasteryPlanner.cappedToast": "Darmowa pula planera jest pełna ({{n}}). Nie zmieściło się {{left}} przedmiotów.",
   "lib.MasteryPlanner.routes": "Trasy farmienia",
-  "lib.MasteryPlanner.eta": "Czas do rangi 30",
+  "lib.MasteryPlanner.eta": "Czas do 30 rangi",
   "lib.MasteryPlanner.allRanked": "Wszystko co posiadasz ma 30 rangę.",
   "lib.MasteryPlanner.noRate": "Rozegraj sesję z uruchomionym Little Genius, aby uzyskać szacowany czas.",
   "lib.CodexView.title": "Kodeks",
