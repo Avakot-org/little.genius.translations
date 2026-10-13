@@ -970,7 +970,7 @@
   "help.section.enhancements.runeRows.title": "Runes",
   "help.section.enhancements.runeRows.body": "Runes sit in the same table with the same rank columns. A Rune only needs one copy at Rank 3.",
   "help.section.enhancements.harmonies.title": "Coûts en Harmonies",
-  "help.section.enhancements.harmonies.body": "The Harmonies column shows what it costs to take an enchantment from your highest copy to the maximum rank. With Completionist Mode on (Settings, General), Totems aim for three Rank 3 copies, one per weapon slot.",
+  "help.section.enhancements.harmonies.body": "La colonne \"Harmonies\" indique le coût de passage au rang 3 de votre meilleure copie d'un Totem donné. Avec le mode Complétionniste activé (Réglages > Général), un objectif de trois copies au rang 3 par Totem (une par Vertu) est fixé.",
   "help.section.enhancements.copiesOwned.title": "Copies Owned Filter",
   "help.section.enhancements.copiesOwned.body": "Filter by Copies Owned: Not owned, Owned or Duplicates. Not owned shows what is left to farm, and Duplicates lists the spares you can release.",
   "help.section.enhancements.copiesOwned.cta": "Go to Enchantments",
