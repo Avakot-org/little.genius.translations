@@ -956,7 +956,7 @@
   "help.section.catalog.about": "L'écran Collections rassemble l'intégralité des armes, armures, Pactes, lieux découverts et Trempes du jeu.",
   "help.section.catalog.markingItems.title": "Marking Items",
   "help.section.catalog.markingItems.body": "Click any item card to open it. Inside, cycle through Not owned → Crafted → Mastered. Your totals update in real time at the top of the page. When synced, your actual ownership updates these marks automatically.",
-  "help.section.catalog.gridList.title": "Grid & List Modes",
+  "help.section.catalog.gridList.title": "Modes d'affichage",
   "help.section.catalog.gridList.body": "Toggle between grid (image cards) and list (compact table) using the icons near the top of the view. List mode adds sortable columns — click a column header to sort by name, mastery XP, or other fields.",
   "help.section.catalog.statusFilter.title": "Filtering by Status",
   "help.section.catalog.statusFilter.body": "Use the filter next to the search bar to show All, Owned, Missing, Mastered or Unmastered items. Discoveries and Tempers have their own filters, such as Unknown, In Progress and Unlocked.",
