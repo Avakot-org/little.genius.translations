@@ -1115,7 +1115,7 @@
   "help.section.sidebarJoineries.title": "接合材料",
   "help.section.sidebarJoineries.about": "接合材料可嵌入武器，为其提供属性加成。接合材料分页会按类别列出所有配件，并显示你拥有的数量。",
   "help.section.sidebarJoineries.families.title": "星级",
-  "help.section.sidebarJoineries.families.body": "每个类别都分为多个等级，从锈蚀到淬炼、抛光，再到祝福等级。右侧的数字表示你拥有的数量。",
+  "help.section.sidebarJoineries.families.body": "每个类别都分为多个等级，从锈金到淬炼、抛光，再到祝福等级。右侧的数字表示你拥有的数量。",
   "help.section.sidebarJoineries.deities.title": "祝福色条",
   "help.section.sidebarJoineries.deities.body": "祝福级接合材料左侧的色条代表其对应的神祇：红色代表莫拉，蓝色代表仙灵菇，绿色代表水银。",
   "help.section.sidebarJoineries.details.title": "详情",
