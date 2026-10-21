@@ -1027,7 +1027,7 @@
   "help.section.tuvalkane.qualities.title": "Crafted Qualities",
   "help.section.tuvalkane.qualities.body": "Each weapon shows which quality tiers you have crafted. Click one for the full list.",
   "help.section.tuvalkane.epithets.title": "Épithètes",
-  "help.section.tuvalkane.epithets.body": "The Epithets section lists every weapon epithet with its unlock condition and your progress. Unfinished ones sort to the top, closest first.",
+  "help.section.tuvalkane.epithets.body": "La section Épithètes montre l'ensemble des Épithètes d'arme, leurs prérequis de déblocage et votre progression dans ce sens. Les Épithètes non débloquées sont affichées en haut de la liste par ordre décroissant de progression.",
   "help.section.tuvalkane.epithets.cta": "Go to Codex",
   "help.section.stats.heading": "Stats",
   "help.section.stats.about": "Stats is the third tab of the Codex. It totals what you have done with each weapon and pact, and against each kind of foe.",
