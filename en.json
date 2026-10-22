@@ -539,7 +539,6 @@
   "lib.JournalView.statsBlockPacts": "Pacts",
   "lib.JournalView.statsBlockEnemies": "Enemies",
   "lib.JournalView.statsBlockScalars": "Account totals",
-  "lib.StatsView.statsTab": "Stats",
   "lib.StatsView.title": "Stats",
   "lib.StatsView.loading": "Loading stats…",
   "lib.StatsView.retry": "Retry",
