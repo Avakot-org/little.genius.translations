@@ -710,5 +710,20 @@
   "common.gripType.Magick": "Weapon grip/archetype name (e.g. Greatsword, Bow), used as an icon label across the app.",
   "common.gripType.Polearm": "Weapon grip/archetype name (e.g. Greatsword, Bow), used as an icon label across the app.",
   "common.gripType.Shield": "Weapon grip/archetype name (e.g. Greatsword, Bow), used as an icon label across the app.",
-  "common.gripType.ShortBlade": "Weapon grip/archetype name (e.g. Greatsword, Bow), used as an icon label across the app."
+  "common.gripType.ShortBlade": "Weapon grip/archetype name (e.g. Greatsword, Bow), used as an icon label across the app.",
+  "lib.ConfirmDialog.cancel": "Generic confirmation dialog: the button that closes it without doing anything.",
+  "lib.SettingsModal.navJournal": "Settings sidebar: tab name for the Journal settings (the session log of loot/XP/events).",
+  "lib.JournalView.manageStorage": "Journal page toolbar button that opens Settings > Journal (disk space and cleanup). Keep it one short word if possible.",
+  "lib.JournalSettings.ageForever": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Option for \"Keep entries for\": never delete by age.",
+  "lib.JournalSettings.sizeNoLimit": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Option for \"Maximum size\": no size cap.",
+  "lib.JournalSettings.entryCount": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Number of journal entries stored, e.g. \"12,345 entries\".",
+  "lib.JournalSettings.since": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Follows the entry count: date of the oldest stored entry, e.g. \"since March 3, 2026\".",
+  "lib.JournalSettings.deleteAction": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Button that deletes (after a confirmation).",
+  "lib.JournalSettings.deleteGroup": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Section heading for the deletion actions.",
+  "lib.JournalSettings.otherAccounts": "Settings > Journal page: controls how much session-journal history is kept on disk and lets the player delete it. Heading for journals left behind by other game accounts that were linked before.",
+  "lib.JournalView.exportRangeLabel": "Journal page > Export dialog: chooses how far back the exported CSV file goes. Label above the preset range buttons.",
+  "lib.JournalView.exportFromLabel": "Journal page > Export dialog: chooses how far back the exported CSV file goes. Label for a date picker; alternative to the presets (\"or start from this date\").",
+  "lib.JournalView.exportRange_today": "Journal page > Export dialog: chooses how far back the exported CSV file goes. Preset: entries since midnight today.",
+  "lib.JournalView.exportRange_all": "Journal page > Export dialog: chooses how far back the exported CSV file goes. Preset: the whole journal.",
+  "lib.IndividualTracker.removeConfirmAction": "Weapon tracker: confirm button that removes a weapon from the tracked list."
 }
