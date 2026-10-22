@@ -104,6 +104,7 @@
   "lib.CloudSyncModal.deletefailed": "Failed to delete cloud data.",
   "lib.CloudSyncModal.somefailed": "Some data could not be deleted: {{list}}",
   "lib.CloudSyncModal.restorefailed": "Failed to restore from the cloud.",
+  "lib.CloudSyncModal.nobucketrestore": "No cloud backup found for your account yet.",
   "lib.CloudSyncModal.syncfailed": "Failed to sync to the cloud.",
   "lib.ConfettiCelebration.congratulations": "🎉 CONGRATULATIONS! 🎉",
   "lib.ConfettiCelebration.seeyounextupdat": "See you next update envoy!",
