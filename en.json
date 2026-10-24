@@ -654,6 +654,8 @@
   "lib.SessionAnalysis.sessions": "Sessions",
   "lib.SessionAnalysis.perItem": "Per item",
   "lib.SessionAnalysis.itemsGained": "Items gained",
+  "lib.SessionAnalysis.enemiesKilled": "Enemies killed",
+  "lib.SessionAnalysis.killsAfterLogout": "Kills update after you log out.",
   "lib.SessionAnalysis.weaponsDropped": "Weapons dropped",
   "lib.SessionAnalysis.rankChange": "Rank {{from}} → {{to}}",
   "lib.SessionAnalysis.discoveryProgress": "Memories found",
