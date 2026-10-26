@@ -1153,7 +1153,7 @@
   "help.section.sidebarEvents.wevetseedTimer.title": "Graine de Wevette",
   "help.section.sidebarEvents.wevetseedTimer.body": "The Wevetseed card counts down to your next refill.",
   "help.section.sidebarEvents.boons.title": "Bonus de compte",
-  "help.section.sidebarEvents.boons.body": "Active account boons are listed with the time they have left.",
+  "help.section.sidebarEvents.boons.body": "Les bonus actifs de votre compte sont listés avec le temps restant avant leur expiration.",
   "help.section.sidebarEvents.pinning.title": "Épinglage",
   "help.section.sidebarEvents.pinning.body": "Right-click a boss card to pin it to the top. Free accounts share five pins across the whole app; supporters have no limit.",
   "help.section.sidebarEvents.alerts.title": "Alertes",
