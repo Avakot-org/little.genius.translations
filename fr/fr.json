@@ -738,7 +738,7 @@
   "lib.ItemChestView.filtermoonsteelhint": "When on, only Moonsteel variant weapons stay highlighted (inventory Shiny: true). Others stay visible but dimmed.",
   "lib.ItemChestView.filterclearmoonsteel": "Clear Moonsteel",
   "lib.ItemChestView.moonsteelvariant": "Moonsteel Variant",
-  "lib.ItemChestView.moonsteelshort": "Moon",
+  "lib.ItemChestView.moonsteelshort": "Luna",
   "lib.ItemChestView.notifymoonstealdropstitle": "Moonsteel variant acquired",
   "lib.ItemChestView.notifymoonsteelweaponname": "{name} (Moonsteel)",
   "lib.ItemChestView.sortraritydesc": "Ouvrage (décroissant)",
