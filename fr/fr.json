@@ -486,7 +486,7 @@
   "lib.JournalView.unlockOnPatreon": "Débloquer sur Patreon",
   "lib.JournalView.nativeOnly": "Le journal n'est accessible que sur l'application Little Genius.",
   "capabilities.foundryNoFeed": "Use the Little Genius desktop app with Soulframe running to see live foundry recipes and timers. You can still track crafting progress manually from the rest of the tracker.",
-  "lib.JournalView.noAccount": "No linked account yet. Launch Soulframe and log in while Little Genius is running to link your account.",
+  "lib.JournalView.noAccount": "Aucun compte lié détecté. Jouez à Soulframe avec Little Genius en arrière-plan pour lier votre compte.",
   "lib.JournalView.loading": "Chargement du journal…",
   "lib.JournalView.empty": "Aucune donnée à afficher. Jouez à Soulframe avec Little Genius en arrière-plan pour remplir cet écran.",
   "lib.JournalView.badgeRelog": "Session",
