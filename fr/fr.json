@@ -1258,7 +1258,7 @@
   "help.section.settings.runInBackground.title": "Run in Background",
   "help.section.settings.runInBackground.body": "Keep Little Genius active after you close the window. The app stays in the system tray and continues tracking timers and inventory.",
   "help.section.settings.notificationsTab.title": "Alertes",
-  "help.section.settings.notificationsTab.body": "Dans la rubrique Alertes, vous pouvez activer et désactiver les alertes, régler leur volume ou encore en personnaliser le son (y compris avec vos propres fichiers audio). Vous pouvez configurer des alertes pour divers évènements : réapparitions de boss de monde, actualisations des marchands, générations de Graine de Wevette, fabrications terminées, et plus encore.",
+  "help.section.settings.notificationsTab.body": "Dans la rubrique Alertes, vous pouvez activer et désactiver les alertes, régler leur volume ou encore en personnaliser le son (y compris avec vos propres fichiers audio). Vous pouvez configurer des alertes pour divers évènements : réapparitions de boss de monde, actualisations des offres des marchands, générations de Graine de Wevette, fabrications terminées, et plus encore.",
   "help.section.settings.notificationsTab.cta": "Aller aux Réglages",
   "help.section.settings.unpinAll.title": "Tout désépingler",
   "help.section.settings.unpinAll.body": "Le bouton « Tout désépingler (partout) » supprime toutes les épingles dans l'ensemble des écrans et onglets de l'application.",
