@@ -781,7 +781,7 @@
   "lib.ResourcePanel.ininventory": "Dans l'inventaire",
   "lib.ResourcePanel.loadingresource": "Chargement des ressources...",
   "lib.ResourcePanel.rarity": "Rareté :",
-  "lib.ResourcePanel.resourceinforma": "Resource Information",
+  "lib.ResourcePanel.resourceinforma": "Informations",
   "lib.ResourcePanel.trackedamount": "Tracked Amount",
   "lib.ResourcePanel.type": "Type :",
   "lib.ResourcePanel.usedincrafting": "Objets fabriqués avec cette ressource",
