@@ -782,7 +782,7 @@
   "lib.ResourcePanel.loadingresource": "Chargement des ressources...",
   "lib.ResourcePanel.rarity": "Rareté :",
   "lib.ResourcePanel.resourceinforma": "Informations",
-  "lib.ResourcePanel.trackedamount": "Tracked Amount",
+  "lib.ResourcePanel.trackedamount": "Objectif de farm",
   "lib.ResourcePanel.type": "Type :",
   "lib.ResourcePanel.usedincrafting": "Objets fabriqués avec cette ressource",
   "lib.ResourcePanel.viewitem": "Voir l'objet",
