@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Pamięć podręczna Soulmap została wyczyszczona -\ndane zostaną pobrane ponownie przy następnym użyciu.",
   "lib.SettingsModal.invtableview": "Widok tabeli ekwipunku",
   "lib.SettingsModal.invtableviewdesc": "Wyświetlaj ekwipunek jako zwartą tabelę zamiast kart",
-  "lib.SettingsModal.showodeinfamy": "Pokaż infamia Ody",
-  "lib.SettingsModal.showodeinfamydesc": "Wyświetlaj niesławę Syndykatu Odu obok standardowej reputacji frakcji",
   "lib.SettingsModal.openlinksexternally": "Otwieraj linki w przeglądarce",
   "lib.SettingsModal.openlinksexternallydesc": "Otwieraj wiki i inne linki w domyślnej przeglądarce zamiast w oknie Little Genius",
   "lib.SettingsModal.slotsusedtotal": "Pokazuj miejsca jako zajęte / wszystkie",

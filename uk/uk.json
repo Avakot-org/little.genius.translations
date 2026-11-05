@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Soulmap cache cleared — data will refetch on next use.",
   "lib.SettingsModal.invtableview": "Таблиця інвентарю",
   "lib.SettingsModal.invtableviewdesc": "Показати інвентар у вигляді компактної таблиці замість карток",
-  "lib.SettingsModal.showodeinfamy": "Показати Ганьбу Оди",
-  "lib.SettingsModal.showodeinfamydesc": "Відображення Синдикату Ганьби Оди поряд зі звичайними рейтингами фракцій",
   "lib.SettingsModal.openlinksexternally": "Open Links in Browser",
   "lib.SettingsModal.openlinksexternallydesc": "Open wiki and other web links in your default browser instead of a Little Genius window",
   "lib.SettingsModal.slotsusedtotal": "Show slots as used / total",

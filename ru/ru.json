@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Кэш Soulmap очищен — данные будут загружены заново при следующем использовании.",
   "lib.SettingsModal.invtableview": "Табличный вид инвентаря",
   "lib.SettingsModal.invtableviewdesc": "Показывать инвентарь в виде компактной таблицы вместо карточек",
-  "lib.SettingsModal.showodeinfamy": "Показать Позор Оды",
-  "lib.SettingsModal.showodeinfamydesc": "Отображать Позор Оды наряду с обычной репутацией фракций",
   "lib.SettingsModal.openlinksexternally": "Открывать ссылки в браузере",
   "lib.SettingsModal.openlinksexternallydesc": "Открывать вики и другие ссылки в браузере по умолчанию вместо окна Little Genius",
   "lib.SettingsModal.slotsusedtotal": "Показывать ячейки в формате занято / всего",

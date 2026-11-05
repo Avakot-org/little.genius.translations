@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Soulmap cache cleared — data will refetch on next use.",
   "lib.SettingsModal.invtableview": "Inventar-Tabellenansicht",
   "lib.SettingsModal.invtableviewdesc": "Inventar als kompakte Tabelle statt als Karten anzeigen",
-  "lib.SettingsModal.showodeinfamy": "Ode-Ansehen anzeigen",
-  "lib.SettingsModal.showodeinfamydesc": "Ode-Syndicat-Ansehen neben den regulären Fraktionswertungen anzeigen",
   "lib.SettingsModal.openlinksexternally": "Open Links in Browser",
   "lib.SettingsModal.openlinksexternallydesc": "Open wiki and other web links in your default browser instead of a Little Genius window",
   "lib.SettingsModal.slotsusedtotal": "Show slots as used / total",

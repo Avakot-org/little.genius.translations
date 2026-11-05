@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Caché de Soulmap eliminada — los datos se obtendrán en el próximo uso.",
   "lib.SettingsModal.invtableview": "Vista del inventario en forma de lista",
   "lib.SettingsModal.invtableviewdesc": "Mostrar el inventario como una lista compacta en lugar de tarjetas",
-  "lib.SettingsModal.showodeinfamy": "Mostrar Infamia de la Oda",
-  "lib.SettingsModal.showodeinfamydesc": "Mostrar el sindicato Infamia de la Oda junto a la reputación de las facciones estándar",
   "lib.SettingsModal.openlinksexternally": "Open Links in Browser",
   "lib.SettingsModal.openlinksexternallydesc": "Open wiki and other web links in your default browser instead of a Little Genius window",
   "lib.SettingsModal.slotsusedtotal": "Show slots as used / total",

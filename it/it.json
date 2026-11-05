@@ -814,8 +814,6 @@
   "lib.SettingsModal.soulmapcacheclearedtoast": "Cache di Soulmap ripulita — i dati saranno recuperati al prossimo utilizzo.",
   "lib.SettingsModal.invtableview": "Modalità Inventario Tabella",
   "lib.SettingsModal.invtableviewdesc": "Mostra l'inventario come una tabella compatta invece d'icone",
-  "lib.SettingsModal.showodeinfamy": "Mostra Infamia Ode",
-  "lib.SettingsModal.showodeinfamydesc": "Mostra l'Infamia Ode insieme al favore delle normali Enclavi",
   "lib.SettingsModal.openlinksexternally": "Open Links in Browser",
   "lib.SettingsModal.openlinksexternallydesc": "Open wiki and other web links in your default browser instead of a Little Genius window",
   "lib.SettingsModal.slotsusedtotal": "Show slots as used / total",
