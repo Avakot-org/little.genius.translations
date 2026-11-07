@@ -1,5 +1,5 @@
 {
-  "App.dismissall": "Tout effacer",
+  "App.dismissall": "Tout ignorer",
   "App.installavakotbu": "Installer Little Genius",
   "App.joindiscord": "Rejoindre le Discord",
   "App.loadingitems": "Chargement des éléments...",
@@ -106,7 +106,7 @@
   "lib.CloudSyncModal.restorefailed": "Échec de la restauration à partir du cloud.",
   "lib.CloudSyncModal.syncfailed": "Échec de la synchronisation avec le cloud.",
   "lib.ConfettiCelebration.congratulations": "🎉 FÉLICITATIONS! 🎉",
-  "lib.ConfettiCelebration.seeyounextupdat": "On se revoit à la prochaine mise à jour, Héraut !",
+  "lib.ConfettiCelebration.seeyounextupdat": "À la prochaine mise à jour, Héraut !",
   "lib.ContextMenu.hidefromlist": "Cacher de la liste",
   "lib.ContextMenu.pintotop": "Épingler au sommet",
   "lib.ContextMenu.unhide": "Ne plus cacher",
