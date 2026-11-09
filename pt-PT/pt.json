@@ -1202,7 +1202,7 @@
   "help.section.sidebarStandings.factionProgress.title": "Progresso da facção",
   "help.section.sidebarStandings.factionProgress.body": "Cada cartão de facção mostra seu grau atual, o Prestígio necessário para o próximo grau e uma barra de progresso indicando quanto falta para avançar.",
   "help.section.sidebarStandings.odeInfamy.title": "Infâmia dos Odes",
-  "help.section.sidebarStandings.odeInfamy.body": "A Infâmia dos Odes possui limite diário próprio e é exibida ao lado das facções principais.",
+  "help.section.sidebarStandings.odeInfamy.body": "A Infâmia dos Odes tem seu próprio limite diário e é exibida ao lado das facções principais.",
   "help.section.sidebarStandings.rightClick.title": "Ações com botão direito",
   "help.section.sidebarStandings.rightClick.body": "Clique com o botão direito em qualquer cartão de facção para fixá-lo no topo da aba Prestígio. Útil se você farma muito uma facção e quer mantê-la sempre visível.",
   "help.section.sidebarStandings.resetCountdown.title": "Contagem para reinício",
