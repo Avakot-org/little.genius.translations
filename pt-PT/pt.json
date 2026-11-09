@@ -1301,15 +1301,15 @@
   "lib.UpdateChecker.continueCurrent": "Continuar na versão atual",
   "lib.UpdateChecker.aptHint": "Instalado via repositório? Execute: sudo apt update && sudo apt upgrade",
   "lib.SettingsModal.updateChannel": "Atualizar canal",
-  "lib.SettingsModal.channelHint.live": "Stable releases, for everyone.",
+  "lib.SettingsModal.channelHint.live": "Versões estáveis, para todos.",
   "lib.SettingsModal.channelHint.preview": "Early builds before they reach Live. Needs Avakot+ on Patreon.",
   "lib.SettingsModal.channelHint.insider": "The earliest, roughest builds. Needs Inner Circle on Patreon.",
   "lib.SettingsModal.updateChannelDesc": "Which builds you receive. This build is {{channel}}.",
   "lib.SettingsModal.channelDownNotice": "You'll move to {{channel}} when its next build is newer than the one you have.",
-  "lib.SettingsModal.channelUpNotice": "Switching to {{channel}}. Checking for {{channel}} updates, if any are available they will automatically download.",
-  "lib.SettingsModal.channelAccessEnded": "Your access changed, so updates now come from {{channel}}.",
-  "lib.CloudSyncModal.syncinventorystats": "Inventory and stats, so you can view them on liteGenius",
-  "lib.CloudSyncModal.desktopsnapshots": "View the inventory and stats from your desktop app:",
-  "lib.CloudSyncModal.desktopaccountn": "Desktop account {{n}}",
-  "lib.CloudSyncModal.snapshotloadfailed": "Couldn't load that desktop snapshot. Try again in a moment."
+  "lib.SettingsModal.channelUpNotice": "Alternando para {{channel}}. Buscando por atualizações do {{channel}}, se houver alguma disponível, será baixada automaticamente.",
+  "lib.SettingsModal.channelAccessEnded": "Seu acesso mudou, portanto, atualizações agora vêm do {{channel}}.",
+  "lib.CloudSyncModal.syncinventorystats": "Inventário e atributos, para que você possa visualizá-los no liteGenius",
+  "lib.CloudSyncModal.desktopsnapshots": "Visualize o inventário e atributos do seu aplicativo desktop:",
+  "lib.CloudSyncModal.desktopaccountn": "Conta desktop {{n}}",
+  "lib.CloudSyncModal.snapshotloadfailed": "Não foi possível carregar esta captura de tela do desktop. Tente novamente em alguns instantes."
 }
