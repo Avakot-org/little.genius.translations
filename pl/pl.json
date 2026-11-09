@@ -791,7 +791,6 @@
   "lib.ResourcePanel.viewitem": "Zobacz przedmiot",
   "lib.RightSidebar.webGuest": "Gość",
   "lib.RightSidebar.webAccountBadge": "Konto",
-  "lib.RightSidebar.masteryrank": "Ranga Mistrzostwa",
   "lib.RightSidebar.envoyrank": "Ranga Wysłannika {{n}}",
   "lib.activeAvatarGlyph.alt": "Motyw awatara: {{name}}",
   "lib.activeAvatarGlyph.unknownMotif": "Nieznany motyw",
@@ -1298,5 +1297,19 @@
   "common.gripType.ShortBlade": "Krótkie ostrze",
   "common.virtue.courage": "Męstwo",
   "common.virtue.grace": "Gracja",
-  "common.virtue.spirit": "Wiara"
+  "common.virtue.spirit": "Wiara",
+  "lib.UpdateChecker.continueCurrent": "Continue on current version",
+  "lib.UpdateChecker.aptHint": "Installed from the repository? Run: sudo apt update && sudo apt upgrade",
+  "lib.SettingsModal.updateChannel": "Update channel",
+  "lib.SettingsModal.channelHint.live": "Stable releases, for everyone.",
+  "lib.SettingsModal.channelHint.preview": "Early builds before they reach Live. Needs Avakot+ on Patreon.",
+  "lib.SettingsModal.channelHint.insider": "The earliest, roughest builds. Needs Inner Circle on Patreon.",
+  "lib.SettingsModal.updateChannelDesc": "Which builds you receive. This build is {{channel}}.",
+  "lib.SettingsModal.channelDownNotice": "You'll move to {{channel}} when its next build is newer than the one you have.",
+  "lib.SettingsModal.channelUpNotice": "Switching to {{channel}}. Checking for {{channel}} updates, if any are available they will automatically download.",
+  "lib.SettingsModal.channelAccessEnded": "Your access changed, so updates now come from {{channel}}.",
+  "lib.CloudSyncModal.syncinventorystats": "Inventory and stats, so you can view them on liteGenius",
+  "lib.CloudSyncModal.desktopsnapshots": "View the inventory and stats from your desktop app:",
+  "lib.CloudSyncModal.desktopaccountn": "Desktop account {{n}}",
+  "lib.CloudSyncModal.snapshotloadfailed": "Couldn't load that desktop snapshot. Try again in a moment."
 }
