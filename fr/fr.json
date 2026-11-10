@@ -523,7 +523,7 @@
   "lib.JournalView.gameSessionEndDetailWithReason": "Fin de la session de jeu",
   "lib.JournalView.badgeSessionEndUnsure": "Fin de session (heure inconnue)",
   "lib.JournalView.gameSessionEndUnsureDetail": "La session de jeu a été terminée alors que Little Genius n'observait pas le jeu (heure exacte inconnue). Une nouvelle session peut être commencée ci-dessous.",
-  "lib.JournalView.gameSessionEndUnsureDetailWithReason": "La session de jeu a été terminée alors que Little Genius n'observait pas le jeu (heure exacte de fin de session inconnue). Les données de la session suivante apparaîtront au-dessus de celle-ci.",
+  "lib.JournalView.gameSessionEndUnsureDetailWithReason": "L'heure exacte de la fin de cette session est inconnue car Little Genius n'observait pas le jeu au moment de sa fermeture.",
   "lib.JournalView.gameSessionUnsureReason.recoveredOnLaunch": "récupéré au lancement de l'application (le journal était ouvert)",
   "lib.JournalView.gameSessionUnsureReason.beforeObservedLaunch": "avant l'observation de cette session (manquée ou précédemment interrompue par un crash)",
   "lib.JournalView.gameSessionUnsureReason.authInvalidated": "La session Soulmap a expiré ou a été invalidée en pleine partie",
