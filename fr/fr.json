@@ -1306,7 +1306,7 @@
   "lib.SettingsModal.channelHint.insider": "La version la plus expérimentale et instable ; accès exclusif aux utilisateurs ayant souscrit à l'abonnement Patreon « Inner Circle » (cercle restreint).",
   "lib.SettingsModal.updateChannelDesc": "Détermine les versions de Little Genius que vous recevez. Vous êtes actuellement sur la branche {{channel}}.",
   "lib.SettingsModal.channelDownNotice": "You'll move to {{channel}} when its next build is newer than the one you have.",
-  "lib.SettingsModal.channelUpNotice": "Switching to {{channel}}. Checking for {{channel}} updates, if any are available they will automatically download.",
+  "lib.SettingsModal.channelUpNotice": "Passage à la branche {{channel}}. Recherche de nouvelle version en cours ; s'il en existe une, elle sera automatiquement téléchargée.",
   "lib.SettingsModal.channelAccessEnded": "Your access changed, so updates now come from {{channel}}.",
   "lib.CloudSyncModal.syncinventorystats": "Inventory and stats, so you can view them on liteGenius",
   "lib.CloudSyncModal.desktopsnapshots": "View the inventory and stats from your desktop app:",
