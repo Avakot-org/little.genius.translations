@@ -33,7 +33,7 @@
   "lib.CalendarView.yesterday": "Ontem",
   "lib.CalendarView.loading": "Carregando calendário…",
   "lib.CalendarView.noofferstoday": "Nenhuma oferta",
-  "features.Vendors.loading": "Loading vendors…",
+  "features.Vendors.loading": "Carregando vendedores...",
   "features.Vendors.unavailable": "Vendor lists aren't available right now.",
   "features.Vendors.avakot": "Avakot's Gots",
   "features.Vendors.avakothint": "Avakot's shelf turns over through the day",
