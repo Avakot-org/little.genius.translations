@@ -733,7 +733,7 @@
   "lib.Dashboards.duplicate": "Dupliquer",
   "lib.Dashboards.remove": "Supprimer la section",
   "lib.Dashboards.title": "Titre",
-  "lib.Dashboards.type": "Forme",
+  "lib.Dashboards.type": "Affichage",
   "lib.Dashboards.width": "Largeur",
   "lib.Dashboards.slice": "Time slice",
   "lib.Dashboards.top": "Show top",
