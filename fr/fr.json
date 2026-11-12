@@ -740,7 +740,7 @@
   "lib.Dashboards.query": "Requête",
   "lib.Dashboards.source": "Donnée",
   "lib.Dashboards.metric": "Valeur",
-  "lib.Dashboards.agg": "Aggregate",
+  "lib.Dashboards.agg": "Total",
   "lib.Dashboards.groupBy": "Regrouper par...",
   "lib.Dashboards.none": "Rien",
   "lib.Dashboards.filters": "Filtre",
