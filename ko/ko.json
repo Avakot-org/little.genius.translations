@@ -650,7 +650,6 @@
   "lib.Navbar.masteryview": "Mastery Helper",
   "lib.MasteryHelper.currentRank": "Envoy Rank",
   "lib.MasteryHelper.maxRank": "Max possible rank",
-  "lib.MasteryHelper.intoRank": "{{n}}% into rank",
   "lib.MasteryHelper.toNext": "{{n}} to next rank",
   "lib.MasteryHelper.left": "{{n}} mastery left",
   "lib.MasteryHelper.all": "All",
@@ -1451,7 +1450,9 @@
   "lib.SettingsModal.channelUpNotice": "Switching to {{channel}}. Checking for {{channel}} updates, if any are available they will automatically download.",
   "lib.SettingsModal.channelAccessEnded": "Your access changed, so updates now come from {{channel}}.",
   "lib.CloudSyncModal.syncinventorystats": "Inventory and stats, so you can view them on liteGenius",
-  "lib.CloudSyncModal.desktopsnapshots": "View the inventory and stats from your desktop app:",
+  "lib.CloudSyncModal.desktopsnapshots": "Sync your inventory and stats from your desktop app. The selected account stays up to date automatically:",
   "lib.CloudSyncModal.desktopaccountn": "Desktop account {{n}}",
-  "lib.CloudSyncModal.snapshotloadfailed": "Couldn't load that desktop snapshot. Try again in a moment."
+  "lib.CloudSyncModal.snapshotloadfailed": "Couldn't load that desktop snapshot. Try again in a moment.",
+  "lib.SidebarAccountStrip.buffs": "Buffs",
+  "lib.SidebarAccountStrip.accountbuffs": "Account Buffs"
 }
