@@ -650,7 +650,6 @@
   "lib.Navbar.masteryview": "精通助手",
   "lib.MasteryHelper.currentRank": "使节等级",
   "lib.MasteryHelper.maxRank": "最高可能等级",
-  "lib.MasteryHelper.intoRank": "等级进度 {{n}}%",
   "lib.MasteryHelper.toNext": "距离下一等级还差 {{n}}",
   "lib.MasteryHelper.left": "剩余精通 {{n}}",
   "lib.MasteryHelper.all": "全選",
@@ -1451,7 +1450,9 @@
   "lib.SettingsModal.channelUpNotice": "正在切换至 {{channel}}。正在检查 {{channel}} 更新，若有可用更新将自动下载。",
   "lib.SettingsModal.channelAccessEnded": "你的访问权限已变更，更新现来自 {{channel}}。",
   "lib.CloudSyncModal.syncinventorystats": "物品栏与统计数据，可在 liteGenius 上查看",
-  "lib.CloudSyncModal.desktopsnapshots": "从你的桌面应用查看物品栏与统计数据：",
+  "lib.CloudSyncModal.desktopsnapshots": "Sync your inventory and stats from your desktop app. The selected account stays up to date automatically:",
   "lib.CloudSyncModal.desktopaccountn": "桌面端账号 {{n}}",
-  "lib.CloudSyncModal.snapshotloadfailed": "无法加载该桌面端快照，请稍后重试。"
+  "lib.CloudSyncModal.snapshotloadfailed": "无法加载该桌面端快照，请稍后重试。",
+  "lib.SidebarAccountStrip.buffs": "Buffs",
+  "lib.SidebarAccountStrip.accountbuffs": "Account Buffs"
 }
