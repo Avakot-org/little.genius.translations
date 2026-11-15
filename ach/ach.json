@@ -650,7 +650,6 @@
   "lib.Navbar.masteryview": "crwdns4396:0crwdne4396:0",
   "lib.MasteryHelper.currentRank": "crwdns4398:0crwdne4398:0",
   "lib.MasteryHelper.maxRank": "crwdns4400:0crwdne4400:0",
-  "lib.MasteryHelper.intoRank": "crwdns4402:0{{n}}crwdne4402:0",
   "lib.MasteryHelper.toNext": "crwdns4404:0{{n}}crwdne4404:0",
   "lib.MasteryHelper.left": "crwdns4406:0{{n}}crwdne4406:0",
   "lib.MasteryHelper.all": "crwdns4408:0crwdne4408:0",
@@ -1451,7 +1450,9 @@
   "lib.SettingsModal.channelUpNotice": "crwdns5152:0{{channel}}crwdnd5152:0{{channel}}crwdne5152:0",
   "lib.SettingsModal.channelAccessEnded": "crwdns5154:0{{channel}}crwdne5154:0",
   "lib.CloudSyncModal.syncinventorystats": "crwdns5156:0crwdne5156:0",
-  "lib.CloudSyncModal.desktopsnapshots": "crwdns5158:0crwdne5158:0",
+  "lib.CloudSyncModal.desktopsnapshots": "crwdns5454:0crwdne5454:0",
   "lib.CloudSyncModal.desktopaccountn": "crwdns5160:0{{n}}crwdne5160:0",
-  "lib.CloudSyncModal.snapshotloadfailed": "crwdns5162:0crwdne5162:0"
+  "lib.CloudSyncModal.snapshotloadfailed": "crwdns5162:0crwdne5162:0",
+  "lib.SidebarAccountStrip.buffs": "crwdns5456:0crwdne5456:0",
+  "lib.SidebarAccountStrip.accountbuffs": "crwdns5458:0crwdne5458:0"
 }
