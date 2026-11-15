@@ -650,7 +650,6 @@
   "lib.Navbar.masteryview": "Auxiliar de Maestria",
   "lib.MasteryHelper.currentRank": "Grau do Arauto",
   "lib.MasteryHelper.maxRank": "Grau máximo possível",
-  "lib.MasteryHelper.intoRank": "{{n}}% do grau",
   "lib.MasteryHelper.toNext": "{{n}} para o próximo grau",
   "lib.MasteryHelper.left": "{{n}} maestria restante",
   "lib.MasteryHelper.all": "Todas",
@@ -1451,7 +1450,9 @@
   "lib.SettingsModal.channelUpNotice": "Mudando para {{channel}}. Buscando atualizações do canal {{channel}}; as disponíveis serão baixadas automaticamente.",
   "lib.SettingsModal.channelAccessEnded": "Seu acesso mudou. A partir de agora, você receberá atualizações pelo canal {{channel}}.",
   "lib.CloudSyncModal.syncinventorystats": "Inventário e estatísticas para você consultar no Lite Genius",
-  "lib.CloudSyncModal.desktopsnapshots": "Veja o inventário e as estatísticas do app para desktop:",
+  "lib.CloudSyncModal.desktopsnapshots": "Sync your inventory and stats from your desktop app. The selected account stays up to date automatically:",
   "lib.CloudSyncModal.desktopaccountn": "Conta do app para desktop {{n}}",
-  "lib.CloudSyncModal.snapshotloadfailed": "Não foi possível carregar essa cópia dos dados do app para desktop. Tente novamente em alguns instantes."
+  "lib.CloudSyncModal.snapshotloadfailed": "Não foi possível carregar essa cópia dos dados do app para desktop. Tente novamente em alguns instantes.",
+  "lib.SidebarAccountStrip.buffs": "Buffs",
+  "lib.SidebarAccountStrip.accountbuffs": "Account Buffs"
 }
