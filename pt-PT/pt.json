@@ -1450,9 +1450,9 @@
   "lib.SettingsModal.channelUpNotice": "Mudando para {{channel}}. Buscando atualizações do canal {{channel}}; as disponíveis serão baixadas automaticamente.",
   "lib.SettingsModal.channelAccessEnded": "Seu acesso mudou. A partir de agora, você receberá atualizações pelo canal {{channel}}.",
   "lib.CloudSyncModal.syncinventorystats": "Inventário e estatísticas para você consultar no Lite Genius",
-  "lib.CloudSyncModal.desktopsnapshots": "Sincronize seu inventário e suas estatísticas pelo aplicativo desktop. A conta selecionada permanece atualizada automaticamente:",
+  "lib.CloudSyncModal.desktopsnapshots": "Sincronize seu inventário e suas estatísticas pelo app para desktop. Os dados da conta selecionada são atualizados automaticamente:",
   "lib.CloudSyncModal.desktopaccountn": "Conta do app para desktop {{n}}",
   "lib.CloudSyncModal.snapshotloadfailed": "Não foi possível carregar essa cópia dos dados do app para desktop. Tente novamente em alguns instantes.",
-  "lib.SidebarAccountStrip.buffs": "Buffs",
-  "lib.SidebarAccountStrip.accountbuffs": "Buffs da Conta"
+  "lib.SidebarAccountStrip.buffs": "Bônus",
+  "lib.SidebarAccountStrip.accountbuffs": "Bônus da Conta"
 }
