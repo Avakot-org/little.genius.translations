@@ -781,7 +781,7 @@
   "lib.Dashboards.metric_tempers": "Закалки",
   "lib.Dashboards.metric_curses": "Проклятия",
   "lib.Dashboards.metric_kills": "Убийства",
-  "lib.Dashboards.metric_minutes": "Минуты в игре",
+  "lib.Dashboards.metric_minutes": "Минут в игре",
   "lib.Dashboards.metric_sessions": "Сеансы",
   "lib.Dashboards.tag_item": "Предмет",
   "lib.Dashboards.tag_kind": "Вид",
