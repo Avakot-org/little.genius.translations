@@ -914,7 +914,7 @@
   "lib.ItemChestView.nativeonly": "Item Chest needs the desktop app with Soulframe running — inventory is read from your local game session.",
   "lib.ItemChestView.loading": "Loading your weapons…",
   "lib.ItemChestView.loaderror": "Could not load inventory. Try syncing again from the Collection tab.",
-  "lib.ItemChestView.noweapons": "No melee or long gun weapons in inventory yet.",
+  "lib.ItemChestView.noweapons": "まだ近接武器や遠距離武器を持っていないようです。",
   "lib.ItemChestView.refreshing": "Updating…",
   "lib.ItemChestView.togglelist": "Toggle grid or list layout",
   "lib.ItemChestView.sort": "Sort",
