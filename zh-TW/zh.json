@@ -375,6 +375,7 @@
   "lib.InventoryView.temperEmpty": "暂无符合筛选条件的淬炼。",
   "lib.InventoryView.temperLoadError": "无法加载淬炼目录。:(",
   "lib.CompanionsPanel.loadError": "无法加载同伴名称。请检查你的网络连接后重试。",
+  "lib.CompanionsPanel.overfeedRisk": "The first 2 are always safe. Each one after that has a 30% chance to overfeed your pup.",
   "lib.InventoryView.temperCopiesLearned": "已学会 {n}/{goal} 份",
   "lib.InventoryView.temperOnYourWeapons": "在你的武器上",
   "lib.InventoryView.temperNoOwnedWeapons": "你的武器都没有这种淬炼。",
