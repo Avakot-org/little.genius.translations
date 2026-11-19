@@ -375,7 +375,6 @@
   "lib.InventoryView.temperEmpty": "No tempers match your filters.",
   "lib.InventoryView.temperLoadError": "Couldn't load the temper catalog. :(",
   "lib.CompanionsPanel.loadError": "Couldn't load companion names. Check your connection and try again.",
-  "lib.CompanionsPanel.overfeedRisk": "The first 2 are always safe. Each one after that has a 30% chance to overfeed your pup.",
   "lib.InventoryView.temperCopiesLearned": "{n} of {goal} copies learned",
   "lib.InventoryView.temperOnYourWeapons": "On your weapons",
   "lib.InventoryView.temperNoOwnedWeapons": "None of your weapons have this temper.",
