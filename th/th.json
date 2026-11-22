@@ -13,7 +13,7 @@
   "lib.ChannelGate.group.insider": "Inner Circle members",
   "lib.ChannelGate.group.preview": "Avakot+ supporters",
   "lib.ChannelGate.noAccessBody": "Your account doesn't have access to {{channel}} builds. They're for {{group}}. You can go back to the Live version anytime.",
-  "lib.ChannelGate.signIn": "Sign in",
+  "lib.ChannelGate.signIn": "เข้าสู่ระบบ",
   "lib.ChannelGate.signInBody": "{{channel}} builds are for {{group}}. Sign in to keep using this one.",
   "lib.ChannelGate.title": "This is a {{channel}} build",
   "lib.PwaMobileGate.title": "Hey! Lite Genius is better as a PWA",
