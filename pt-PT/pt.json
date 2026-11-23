@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "Próximo resultado",
   "lib.JournalView.findNavigateGroup": "Navegação de resultados",
   "lib.JournalView.findMatchPosition": "{{current}} / {{total}}",
-  "lib.JournalView.freeTierHint": "Patrons têm acesso ao histórico completo e à exportação em CSV!",
-  "lib.JournalView.unlockOnPatreon": "Desbloquear no Patreon",
   "lib.JournalView.nativeOnly": "O registro está disponível apenas no aplicativo desktop do Little Genius.",
   "capabilities.foundryNoFeed": "Use o aplicativo desktop do Little Genius com o Soulframe em execução para ver receitas da forja e temporizadores em tempo real. Você ainda pode acompanhar o progresso de fabricação manualmente pelo restante do rastreador.",
   "lib.JournalView.noAccount": "Nenhuma conta vinculada ainda. Abra o Soulframe e faça login enquanto o Little Genius estiver em execução para vincular sua conta.",

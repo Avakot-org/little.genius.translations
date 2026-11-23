@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "Résultat suivant",
   "lib.JournalView.findNavigateGroup": "Match navigation",
   "lib.JournalView.findMatchPosition": "{{current}} / {{total}}",
-  "lib.JournalView.freeTierHint": "Les abonnés Patreon ont accès à l'historique complet ainsi qu'à la fonction d'exportation au format CSV !",
-  "lib.JournalView.unlockOnPatreon": "Débloquer sur Patreon",
   "lib.JournalView.nativeOnly": "Le journal n'est accessible que sur l'application Little Genius.",
   "capabilities.foundryNoFeed": "Use the Little Genius desktop app with Soulframe running to see live foundry recipes and timers. You can still track crafting progress manually from the rest of the tracker.",
   "lib.JournalView.noAccount": "Aucun compte lié détecté. Jouez à Soulframe avec Little Genius en arrière-plan pour lier votre compte.",

@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "下一个匹配结果",
   "lib.JournalView.findNavigateGroup": "匹配结果导航",
   "lib.JournalView.findMatchPosition": "{{current}} / {{total}}",
-  "lib.JournalView.freeTierHint": "赞助者可解锁完整历史记录和 CSV 导出功能！",
-  "lib.JournalView.unlockOnPatreon": "前往 Patreon 解锁",
   "lib.JournalView.nativeOnly": "日志功能仅在 Little Genius 桌面应用中可用。",
   "capabilities.foundryNoFeed": "在运行《祖灵战甲》的同时使用 Little Genius 桌面应用，可查看实时锻造配方和计时器。你也可以通过追踪器的其他功能手动跟踪锻造进度。",
   "lib.JournalView.noAccount": "尚未绑定账号。请在 Little Genius 运行期间启动《祖灵战甲》并登录，即可完成绑定。",

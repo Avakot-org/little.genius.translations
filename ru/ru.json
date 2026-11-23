@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "Следующее совпадение",
   "lib.JournalView.findNavigateGroup": "Навигация по совпадениям",
   "lib.JournalView.findMatchPosition": "{{current}} / {{total}}",
-  "lib.JournalView.freeTierHint": "Подписчикам Patreon доступны полная история и экспорт в CSV!",
-  "lib.JournalView.unlockOnPatreon": "Открыть через Patreon",
   "lib.JournalView.nativeOnly": "Журнал доступен только в приложении Little Genius для компьютера.",
   "capabilities.foundryNoFeed": "Запустите Soulframe и приложение Little Genius для компьютера, чтобы видеть актуальные рецепты и таймеры Кузницы. В остальных разделах прогресс крафта по-прежнему можно отслеживать вручную.",
   "lib.JournalView.noAccount": "Учётная запись пока не привязана. Запустите Little Genius, затем откройте Soulframe и войдите в игру, чтобы привязать учётную запись.",

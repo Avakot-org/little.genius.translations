@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "Next match",
   "lib.JournalView.findNavigateGroup": "Match navigation",
   "lib.JournalView.findMatchPosition": "{{current}} / {{total}}",
-  "lib.JournalView.freeTierHint": "¡Los mecenas tienen las funciones de historial completo y exportar a CSV!",
-  "lib.JournalView.unlockOnPatreon": "Desbloquear en patreon",
   "lib.JournalView.nativeOnly": "El diario solo está disponible en la aplicación de escritorio de Little Genius.",
   "capabilities.foundryNoFeed": "Usa la aplicación de escritorio de Little Genius con Soulframe abierto para ver recetas de la forja y sus tiempos. Aún puedes seguir progresos de forja manualmente desde el resto del rastreador.",
   "lib.JournalView.noAccount": "No hay cuenta enlazada todavía, Ejecuta Soulframe e inicia sesión mientras Little Genius se ejecuta para enlazar tu cuenta.",

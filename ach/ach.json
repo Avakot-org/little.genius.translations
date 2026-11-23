@@ -524,8 +524,6 @@
   "lib.JournalView.findNextMatch": "crwdns3249:0crwdne3249:0",
   "lib.JournalView.findNavigateGroup": "crwdns3251:0crwdne3251:0",
   "lib.JournalView.findMatchPosition": "crwdns3253:0{{current}}crwdnd3253:0{{total}}crwdne3253:0",
-  "lib.JournalView.freeTierHint": "crwdns2527:0crwdne2527:0",
-  "lib.JournalView.unlockOnPatreon": "crwdns2321:0crwdne2321:0",
   "lib.JournalView.nativeOnly": "crwdns2323:0crwdne2323:0",
   "capabilities.foundryNoFeed": "crwdns2325:0crwdne2325:0",
   "lib.JournalView.noAccount": "crwdns2327:0crwdne2327:0",
