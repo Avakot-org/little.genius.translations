@@ -793,7 +793,7 @@
   "lib.Dashboards.addQuery": "添加查询",
   "lib.Dashboards.removeQuery": "移除查询",
   "lib.Dashboards.formula": "公式",
-  "lib.Dashboards.formulaHint": "可选。使用 A、B…… 和 hours（游玩时长）组合查询，例如 A / hours。",
+  "lib.Dashboards.formulaHint": "Optional. Combine queries with A, B, … and hours (time played): A / hours. Text and goals work too: A ' / ' B, or 100 - A if A < 100 else 'Done'. Separate several with ; and name them with Name: (tables get one column each).",
   "lib.Dashboards.total": "Total",
   "lib.Dashboards.save": "保存",
   "lib.Dashboards.cancel": "取消",
