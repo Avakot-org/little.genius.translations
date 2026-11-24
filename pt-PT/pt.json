@@ -1117,7 +1117,7 @@
   "lib.SettingsModal.completionistmode": "Modo Complecionista",
   "lib.SettingsModal.completionistmodedesc": "Define como meta 3 cópias de cada Totem no nível máximo (uma para cada espaço de arma). As Runas continuam com meta de 1×. Os custos de Harmonia para aprimoramento no painel de Encantamentos passam a considerar essa meta de três cópias.",
   "lib.SettingsModal.timezone": "Fuso horário",
-  "lib.SettingsModal.timezonedesc": "Os horários do Registro, da Análise de Sessão, dos Painéis e dos Temporizadores seguem este fuso horário. Digite o nome de uma cidade ou um deslocamento UTC, como -07:00, ou deixe o campo vazio para usar o fuso horário do seu computador.",
+  "lib.SettingsModal.timezonedesc": "Os horários do Registro, da Análise de Sessão, dos Painéis e dos Temporizadores seguem este fuso horário. Digite o nome de uma cidade ou um deslocamento UTC, como -07:00, ou deixe este campo vazio para usar o horário do seu computador.",
   "lib.SettingsModal.timezonesystem": "Sistema ({{zone}})",
   "lib.SettingsModal.daylightsaving": "Horário de verão",
   "lib.SettingsModal.daylightsavingdesc": "Desative para manter o horário padrão o ano todo, para regiões que não usam mais o horário de verão.",
