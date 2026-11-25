@@ -1601,9 +1601,17 @@
   "lib.SettingsModal.channelAhead": "{{channel}} is {{n}} update(s) ahead of your version: you have {{current}}, the newest {{channel}} build is {{version}}.",
   "lib.SettingsModal.channelAccessEnded": "Your access changed, so updates now come from {{channel}}.",
   "lib.CloudSyncModal.syncinventorystats": "Inventory and stats, so you can view them on liteGenius",
-  "lib.CloudSyncModal.desktopsnapshots": "Sync your inventory and stats from your desktop app. The selected account stays up to date automatically:",
-  "lib.CloudSyncModal.desktopaccountn": "Desktop account {{n}}",
-  "lib.CloudSyncModal.snapshotloadfailed": "Couldn't load that desktop snapshot. Try again in a moment.",
   "lib.SidebarAccountStrip.buffs": "Buffs",
-  "lib.SidebarAccountStrip.accountbuffs": "Account Buffs"
+  "lib.SidebarAccountStrip.accountbuffs": "Account Buffs",
+  "lib.SidebarAccountStrip.latestSync": "Latest Sync",
+  "lib.SidebarAccountStrip.fetchingLatest": "Fetching Latest",
+  "lib.SidebarAccountStrip.syncedAt": "{{name}} · synced {{time}}",
+  "lib.PlayerSync.enable": "liteGenius sync",
+  "lib.PlayerSync.account": "Synced account",
+  "lib.PlayerSync.deleteconfirm": "Remove your synced Little Genius data from Avakot.org? liteGenius goes back to manual tracking.",
+  "lib.PlayerSync.cadencepremium": "Show your account on liteGenius. Updates every couple of minutes while you play.",
+  "lib.PlayerSync.cadencefree": "Show your account on liteGenius. Updates at the end of each play session.",
+  "lib.PlayerSync.delete": "Delete synced data",
+  "lib.PlayerSync.deleted": "Synced data deleted.",
+  "lib.PlayerSync.failed": "Sync failed, try again later."
 }
