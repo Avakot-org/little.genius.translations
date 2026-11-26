@@ -904,7 +904,7 @@
   "lib.Dashboards.opt_showCompleted": "Show completed",
   "lib.Dashboards.opt_cooldownOnly": "Only show bosses on cooldown",
   "lib.Dashboards.opt_compact": "Compact (no XP line)",
-  "lib.Dashboards.opt_categories": "Categories",
+  "lib.Dashboards.opt_categories": "Catégories",
   "lib.Dashboards.opt_kinds": "Entry kinds",
   "lib.Dashboards.manage": "Tableaux de bord",
   "lib.Dashboards.shareOrRename": "Renommer et partager",
