@@ -287,7 +287,7 @@
   "lib.ArmoryView.favorite": "Favori",
   "lib.ArmoryView.equipped": "Équipement actuel",
   "lib.ArmoryView.mainLoadout": "Équipement principal",
-  "lib.ArmoryView.emptySlots": "No weapons or pact resolved for this preset yet.",
+  "lib.ArmoryView.emptySlots": "Aucune arme ou Pacte n'a encore été défini pour ce build.",
   "lib.ArmoryView.otherLoadouts": "Autres équipements",
   "lib.ArmoryView.primary": "Principale",
   "lib.ArmoryView.secondary": "Secondaire",
