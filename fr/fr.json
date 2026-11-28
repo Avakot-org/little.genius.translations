@@ -1304,7 +1304,7 @@
   "help.section.privacy.cloudBackup.title": "Sauvegarde dans le cloud (facultatif)",
   "help.section.privacy.cloudBackup.body": "La sauvegarde dans le cloud est une fonctionnalité exclusive aux abonnés Patreon et est désactivée par défaut. Seules certaines données, à savoir vos éléments épinglés et vos préférences de réglages de l'application, peuvent ainsi être préservées ; vos identifiants ne sont pas concernés.",
   "help.section.privacy.deletingEverything.title": "Tout supprimer",
-  "help.section.privacy.deletingEverything.body": "Ouvrez le panneau de configuration. Le bouton \"Supprimer toutes les données\" permet de supprimer l'intégralité des fichiers en cache et de réinitialiser les réglages locaux. ATTENTION : cette action est définitive et irréversible.",
+  "help.section.privacy.deletingEverything.body": "Ouvrez le panneau de configuration. Le bouton « Supprimer toutes les données » permet de supprimer l'intégralité des fichiers en cache et de réinitialiser les réglages locaux. ATTENTION : cette action est définitive et irréversible.",
   "help.section.privacy.deletingEverything.cta": "Ouvrir le panneau de configuration",
   "help.section.catalog.title": "Votre collection",
   "help.section.catalog.about": "L'écran Collections rassemble l'intégralité des armes, armures, Pactes, lieux découverts et Trempes du jeu.",
