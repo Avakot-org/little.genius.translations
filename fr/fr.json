@@ -1214,7 +1214,7 @@
   "lib.WeaponBuildModal.copycode": "Copier le code",
   "lib.WeaponBuildModal.copytoclipboard": "Copier dans le presse-papier",
   "lib.WeaponBuildModal.defenseslot": "Courage",
-  "lib.WeaponBuildModal.editbuildnotes": "Edit build notes",
+  "lib.WeaponBuildModal.editbuildnotes": "Modifier la description du build",
   "lib.WeaponBuildModal.editnotesmodal": "Edit notes modal",
   "lib.WeaponBuildModal.exportbuild": "Exporter le build",
   "lib.WeaponBuildModal.exportbuildcode": "Exporter le code du build",
