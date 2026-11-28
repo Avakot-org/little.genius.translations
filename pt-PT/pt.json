@@ -406,7 +406,7 @@
   "lib.InventoryView.tablecolname": "Nome",
   "lib.InventoryView.tablecoltype": "Tipo",
   "lib.InventoryView.tablecolmastery": "Maestria",
-  "lib.InventoryView.tablecolfragments": "Frags",
+  "lib.InventoryView.tablecolfragments": "Fragmentos",
   "lib.InventoryView.noarmormatch": "Nenhuma armadura corresponde aos seus filtros atuais.",
   "lib.InventoryView.noitemsmatch": "Nenhum item corresponde aos seus filtros atuais.",
   "lib.InventoryView.nopactsmatch": "Nenhum pacto corresponde aos seus filtros atuais.",
