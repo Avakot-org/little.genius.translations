@@ -177,7 +177,7 @@
   "lib.CosmeticsView.searchcosmetics": "Rechercher un cosmétique…",
   "lib.CosmeticsView.title": "Cosmétiques",
   "lib.CosmeticsView.type": "Type",
-  "lib.CreditsModal.art": "Art",
+  "lib.CreditsModal.art": "Illustrations",
   "lib.CreditsModal.disclaimer": "Crédits",
   "lib.CreditsModal.innercircletier": "Cercle restreint ({{count}} / 20)",
   "lib.CreditsModal.loading": "Chargement",
