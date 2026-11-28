@@ -147,7 +147,7 @@
   "lib.ContextMenu.hidefromlist": "Cacher de la liste",
   "lib.ContextMenu.pintotop": "Épingler au sommet",
   "lib.ContextMenu.unhide": "Ne plus cacher",
-  "lib.ContextMenu.unhideall": "Unhide all ({{count}})",
+  "lib.ContextMenu.unhideall": "Montrer à nouveau tout ({{count}})",
   "lib.ContextMenu.unpin": "Désépingler",
   "lib.ContextMenu.compareitem": "Comparer l'élément",
   "lib.ContextMenu.addtoplanner": "Ajouter au planificateur",
